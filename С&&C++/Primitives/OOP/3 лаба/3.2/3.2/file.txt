@@ -1,0 +1,5 @@
+box 07/11/19 Artem smn 3.5 15000
+laptop 05/12/20 Dima Max 1.5 3000
+smartphone 13/08/19 Alex Alisa 0.5 2500
+Printer 10/7/19 Artem Sasha 2 1000
+smth smd tosmn fromsmn 1 1

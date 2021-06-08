@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\verdant\desktop\17 лаба двумерный массив\with headers\with headers\source.cpp(9): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  with headers.vcxproj -> C:\Users\Verdant\Desktop\17 лаба Двумерный массив\with headers\Debug\with headers.exe

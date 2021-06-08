@@ -1,0 +1,5 @@
+London 38 Ty-134 9.00 Mo/We/Su
+Barcelona 13 Ty-154 8.00 Tu/Fr/Su
+Vienna 27 Ty-204 13.00 Tu/Fr
+Minsk 55 Ty-134 10.00 Mo/Fr
+Berlin 49 Ty-204 11.00 Tu/Fr/Sa

@@ -1,0 +1,56 @@
+﻿  Source.cpp
+D:\Учеба\Модель\2 лаба\Shaibu!Shaibu!\Shaibu!Shaibu!\Source.cpp(26,35): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Учеба\Модель\2 лаба\Shaibu!Shaibu!\Shaibu!Shaibu!\Source.cpp(29,59): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Учеба\Модель\2 лаба\Shaibu!Shaibu!\Shaibu!Shaibu!\Source.cpp(29,33): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Учеба\Модель\2 лаба\Shaibu!Shaibu!\Shaibu!Shaibu!\Source.cpp(32,36): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Учеба\Модель\2 лаба\Shaibu!Shaibu!\Shaibu!Shaibu!\Source.cpp(35,60): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Учеба\Модель\2 лаба\Shaibu!Shaibu!\Shaibu!Shaibu!\Source.cpp(35,34): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Учеба\Модель\2 лаба\Shaibu!Shaibu!\Shaibu!Shaibu!\Source.cpp(38,40): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Учеба\Модель\2 лаба\Shaibu!Shaibu!\Shaibu!Shaibu!\Source.cpp(41,64): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Учеба\Модель\2 лаба\Shaibu!Shaibu!\Shaibu!Shaibu!\Source.cpp(41,38): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Учеба\Модель\2 лаба\Shaibu!Shaibu!\Shaibu!Shaibu!\Source.cpp(44,39): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Учеба\Модель\2 лаба\Shaibu!Shaibu!\Shaibu!Shaibu!\Source.cpp(47,63): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Учеба\Модель\2 лаба\Shaibu!Shaibu!\Shaibu!Shaibu!\Source.cpp(47,37): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Учеба\Модель\2 лаба\Shaibu!Shaibu!\Shaibu!Shaibu!\Source.cpp(113,24): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Учеба\Модель\2 лаба\Shaibu!Shaibu!\Shaibu!Shaibu!\Source.cpp(114,24): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Учеба\Модель\2 лаба\Shaibu!Shaibu!\Shaibu!Shaibu!\Source.cpp(143,76): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Учеба\Модель\2 лаба\Shaibu!Shaibu!\Shaibu!Shaibu!\Source.cpp(143,44): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Учеба\Модель\2 лаба\Shaibu!Shaibu!\Shaibu!Shaibu!\Source.cpp(332,27): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Учеба\Модель\2 лаба\Shaibu!Shaibu!\Shaibu!Shaibu!\Source.cpp(332,24): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Учеба\Модель\2 лаба\Shaibu!Shaibu!\Shaibu!Shaibu!\Source.cpp(178,19): warning C4101: m: неиспользованная локальная переменная
+D:\Учеба\Модель\2 лаба\Shaibu!Shaibu!\Shaibu!Shaibu!\Source.cpp(194,37): warning C4101: VyPrev: неиспользованная локальная переменная
+D:\Учеба\Модель\2 лаба\Shaibu!Shaibu!\Shaibu!Shaibu!\Source.cpp(178,27): warning C4101: Vo: неиспользованная локальная переменная
+D:\Учеба\Модель\2 лаба\Shaibu!Shaibu!\Shaibu!Shaibu!\Source.cpp(194,29): warning C4101: VxPrev: неиспользованная локальная переменная
+  Shaibu!Shaibu!.vcxproj -> D:\Учеба\Модель\2 лаба\Shaibu!Shaibu!\x64\Debug\Shaibu!Shaibu!.exe

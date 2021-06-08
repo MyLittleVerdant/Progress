@@ -1,0 +1,13 @@
+﻿  1.2.cpp
+C:\Users\Verdant\Desktop\1 лаба\1.2\1.2\1.2.cpp(39,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Verdant\Desktop\1 лаба\1.2\1.2\1.2.cpp(63,21): warning C4244:  +=: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\Verdant\Desktop\1 лаба\1.2\1.2\1.2.cpp(63,21): warning C4244:         with
+C:\Users\Verdant\Desktop\1 лаба\1.2\1.2\1.2.cpp(63,21): warning C4244:         [
+C:\Users\Verdant\Desktop\1 лаба\1.2\1.2\1.2.cpp(63,21): warning C4244:             _Ty=double
+C:\Users\Verdant\Desktop\1 лаба\1.2\1.2\1.2.cpp(63,21): warning C4244:         ]
+C:\Users\Verdant\Desktop\1 лаба\1.2\1.2\1.2.cpp(66,22): warning C4244:  +=: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\Verdant\Desktop\1 лаба\1.2\1.2\1.2.cpp(66,22): warning C4244:         with
+C:\Users\Verdant\Desktop\1 лаба\1.2\1.2\1.2.cpp(66,22): warning C4244:         [
+C:\Users\Verdant\Desktop\1 лаба\1.2\1.2\1.2.cpp(66,22): warning C4244:             _Ty=double
+C:\Users\Verdant\Desktop\1 лаба\1.2\1.2\1.2.cpp(66,22): warning C4244:         ]
+  1.2.vcxproj -> C:\Users\Verdant\Desktop\1 лаба\1.2\Debug\1.2.exe
