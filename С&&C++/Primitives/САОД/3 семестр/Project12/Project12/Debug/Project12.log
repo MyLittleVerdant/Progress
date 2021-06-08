@@ -1,3 +1,0 @@
-﻿  Source.cpp
-F:\Учеба\САОД\Project12\Project12\Source.cpp(144,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
-  Project12.vcxproj -> F:\Учеба\САОД\Project12\Debug\Project12.exe

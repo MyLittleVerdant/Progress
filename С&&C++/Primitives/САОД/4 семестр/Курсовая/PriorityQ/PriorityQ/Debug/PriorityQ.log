@@ -1,8 +1,0 @@
-﻿  Source.cpp
-F:\Учеба\САОД\4 семестр\Курсовая\PriorityQ\PriorityQ\Source.cpp(53,19): warning C4018: >=: несоответствие типов со знаком и без знака
-F:\Учеба\САОД\4 семестр\Курсовая\PriorityQ\PriorityQ\Source.cpp(105,18): warning C4018: <: несоответствие типов со знаком и без знака
-F:\Учеба\САОД\4 семестр\Курсовая\PriorityQ\PriorityQ\Source.cpp(106,34): warning C4018: <: несоответствие типов со знаком и без знака
-F:\Учеба\САОД\4 семестр\Курсовая\PriorityQ\PriorityQ\Source.cpp(116,27): warning C4018: <: несоответствие типов со знаком и без знака
-F:\Учеба\САОД\4 семестр\Курсовая\PriorityQ\PriorityQ\Source.cpp(133,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-F:\Учеба\САОД\4 семестр\Курсовая\PriorityQ\PriorityQ\Source.cpp(135,9): warning C4101: k: неиспользованная локальная переменная
-  PriorityQ.vcxproj -> F:\Учеба\САОД\4 семестр\Курсовая\PriorityQ\Debug\PriorityQ.exe
