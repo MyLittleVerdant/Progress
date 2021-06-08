@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище HiReDModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Interview">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Post" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="FIO" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="PhoneNumber" Type="nvarchar" MaxLength="12" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+    <Property Name="Comment" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="Recruitment">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Department" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Post" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Status" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Info" Type="int" />
+  </EntityType>
+  <Association Name="FK_Recruitment_Interview">
+    <End Role="Interview" Type="Self.Interview" Multiplicity="0..1" />
+    <End Role="Recruitment" Type="Self.Recruitment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Interview">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Recruitment">
+        <PropertyRef Name="Info" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Хранилище HiReDModelContainer">
+    <EntitySet Name="Interview" EntityType="Self.Interview" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Recruitment" EntityType="Self.Recruitment" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Recruitment_Interview" Association="Self.FK_Recruitment_Interview">
+      <End Role="Interview" EntitySet="Interview" />
+      <End Role="Recruitment" EntitySet="Recruitment" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (S.T.AAAAAAAAA.R.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Source.cpp
+D:\Учеба\оКОШКИ\6 лаба\S.T.AAAAAAAAA.R\S.T.AAAAAAAAA.R\Source.cpp(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Учеба\оКОШКИ\6 лаба\S.T.AAAAAAAAA.R\S.T.AAAAAAAAA.R\Source.cpp(49,21): warning C4018: <=: несоответствие типов со знаком и без знака
+D:\Учеба\оКОШКИ\6 лаба\S.T.AAAAAAAAA.R\S.T.AAAAAAAAA.R\Source.cpp(57,58): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\оКОШКИ\6 лаба\S.T.AAAAAAAAA.R\S.T.AAAAAAAAA.R\Source.cpp(57,36): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\оКОШКИ\6 лаба\S.T.AAAAAAAAA.R\S.T.AAAAAAAAA.R\Source.cpp(57,11): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\оКОШКИ\6 лаба\S.T.AAAAAAAAA.R\S.T.AAAAAAAAA.R\Source.cpp(56,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\оКОШКИ\6 лаба\S.T.AAAAAAAAA.R\S.T.AAAAAAAAA.R\Source.cpp(59,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\оКОШКИ\6 лаба\S.T.AAAAAAAAA.R\S.T.AAAAAAAAA.R\Source.cpp(59,11): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\оКОШКИ\6 лаба\S.T.AAAAAAAAA.R\S.T.AAAAAAAAA.R\Source.cpp(58,59): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\оКОШКИ\6 лаба\S.T.AAAAAAAAA.R\S.T.AAAAAAAAA.R\Source.cpp(58,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\оКОШКИ\6 лаба\S.T.AAAAAAAAA.R\S.T.AAAAAAAAA.R\Source.cpp(76,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\оКОШКИ\6 лаба\S.T.AAAAAAAAA.R\S.T.AAAAAAAAA.R\Source.cpp(76,38): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\оКОШКИ\6 лаба\S.T.AAAAAAAAA.R\S.T.AAAAAAAAA.R\Source.cpp(77,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\оКОШКИ\6 лаба\S.T.AAAAAAAAA.R\S.T.AAAAAAAAA.R\Source.cpp(77,38): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  S.T.AAAAAAAAA.R.vcxproj -> D:\Учеба\оКОШКИ\6 лаба\S.T.AAAAAAAAA.R\Debug\S.T.AAAAAAAAA.R.S..exe

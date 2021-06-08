@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище HiReDModelContainer" CdmEntityContainer="HiReDEntities">
+    <EntitySetMapping Name="Interviews">
+      <EntityTypeMapping TypeName="HiReDModel.Interview">
+        <MappingFragment StoreEntitySet="Interview">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Post" ColumnName="Post" />
+          <ScalarProperty Name="FIO" ColumnName="FIO" />
+          <ScalarProperty Name="PhoneNumber" ColumnName="PhoneNumber" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Comment" ColumnName="Comment" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Recruitments">
+      <EntityTypeMapping TypeName="HiReDModel.Recruitment">
+        <MappingFragment StoreEntitySet="Recruitment">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Department" ColumnName="Department" />
+          <ScalarProperty Name="Post" ColumnName="Post" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="Info" ColumnName="Info" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

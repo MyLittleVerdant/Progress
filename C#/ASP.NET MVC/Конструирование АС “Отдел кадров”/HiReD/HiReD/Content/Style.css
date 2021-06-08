@@ -1,0 +1,56 @@
+.Left{
+    width: 11%;
+    float: left;
+    margin-right: 2.5%
+}
+
+.BuTable{
+    
+    height: 100px;
+    
+    
+}
+
+.Space{
+    height:25px;
+}
+
+.Sort{
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.MainTable{
+    width: 75%;
+    min-height: 360px;
+    height: auto;
+    float: left;
+    padding:10px;
+}
+
+
+.BuNote{
+    width: 10%;
+    height: 100px;
+    float: right;
+}
+
+#Sort{
+    width: 150px
+}
+
+.pgn{
+    margin-left:5px;
+}
+#Status
+{
+    width: 150px
+}
+
+table tr.marked{
+    background-color: green; 
+}
+
+.save {
+    text-decoration: none;
+}

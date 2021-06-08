@@ -1,0 +1,388 @@
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\Kadr.exe.config
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\Kadr.exe
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\Kadr.pdb
+D:\Учеба\БД\Курсовая\Kadr\Kadr\obj\Debug\Kadr.csprojAssemblyReference.cache
+D:\Учеба\БД\Курсовая\Kadr\Kadr\obj\Debug\Kadr.Properties.Resources.resources
+D:\Учеба\БД\Курсовая\Kadr\Kadr\obj\Debug\Kadr.csproj.GenerateResource.cache
+D:\Учеба\БД\Курсовая\Kadr\Kadr\obj\Debug\Kadr.csproj.CoreCompileInputs.cache
+D:\Учеба\БД\Курсовая\Kadr\Kadr\obj\Debug\Kadr.exe
+D:\Учеба\БД\Курсовая\Kadr\Kadr\obj\Debug\Kadr.pdb
+D:\Учеба\БД\Курсовая\Kadr\Kadr\obj\Debug\Kadr.FormMain.resources
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\KadrLib.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\KadrLib.pdb
+D:\Учеба\БД\Курсовая\Kadr\Kadr\obj\Debug\Kadr.csproj.CopyComplete
+D:\Учеба\БД\Курсовая\Kadr\Kadr\obj\Debug\Kadr.SingIn.resources
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\EnvDTE.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\stdole.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.MSXML.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Учеба\БД\Курсовая\Kadr\Kadr\obj\Debug\RdlCompile.cache
+D:\Учеба\БД\Курсовая\Kadr\Kadr\obj\Debug\RdlCompile.compiled
+D:\Учеба\БД\Курсовая\Kadr\Kadr\obj\Debug\Kadr.Connection.resources
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\Kadr.exe.config
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\Kadr.exe
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\Kadr.pdb
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\KadrLib.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\EnvDTE.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\stdole.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.MSXML.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\KadrLib.pdb
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\obj\Debug\Kadr.csprojAssemblyReference.cache
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\obj\Debug\Kadr.Connection.resources
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\obj\Debug\Kadr.FormMain.resources
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\obj\Debug\Kadr.Properties.Resources.resources
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\obj\Debug\Kadr.SingIn.resources
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\obj\Debug\Kadr.csproj.GenerateResource.cache
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\obj\Debug\RdlCompile.cache
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\obj\Debug\RdlCompile.compiled
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\obj\Debug\Kadr.csproj.CoreCompileInputs.cache
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\obj\Debug\Kadr.csproj.CopyComplete
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\obj\Debug\Kadr.exe
+C:\Users\artpo\Desktop\Курсовая\Kadr\Kadr\obj\Debug\Kadr.pdb
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\Kadr.exe.config
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\Kadr.exe
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\Kadr.pdb
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\KadrLib.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\EnvDTE.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\stdole.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\Microsoft.MSXML.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\KadrLib.pdb
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\obj\Debug\Kadr.csprojAssemblyReference.cache
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\obj\Debug\Kadr.Connection.resources
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\obj\Debug\Kadr.FormMain.resources
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\obj\Debug\Kadr.Properties.Resources.resources
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\obj\Debug\Kadr.SingIn.resources
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\obj\Debug\Kadr.csproj.GenerateResource.cache
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\obj\Debug\RdlCompile.cache
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\obj\Debug\RdlCompile.compiled
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\obj\Debug\Kadr.csproj.CoreCompileInputs.cache
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\obj\Debug\Kadr.csproj.CopyComplete
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\obj\Debug\Kadr.exe
+D:\Учеба\3 курс\БД\Курсовая\Kadr\Kadr\obj\Debug\Kadr.pdb
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\Kadr.exe.config
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\Kadr.exe
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\Kadr.pdb
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\KadrLib.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\EnvDTE.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\stdole.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\Microsoft.MSXML.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\KadrLib.pdb
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\obj\Debug\Kadr.csproj.AssemblyReference.cache
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\obj\Debug\Kadr.Connection.resources
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\obj\Debug\Kadr.FormMain.resources
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\obj\Debug\Kadr.Properties.Resources.resources
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\obj\Debug\Kadr.SingIn.resources
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\obj\Debug\Kadr.csproj.GenerateResource.cache
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\obj\Debug\RdlCompile.cache
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\obj\Debug\RdlCompile.compiled
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\obj\Debug\Kadr.csproj.CoreCompileInputs.cache
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\obj\Debug\Kadr.csproj.CopyComplete
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\obj\Debug\Kadr.exe
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\Kadr\obj\Debug\Kadr.pdb

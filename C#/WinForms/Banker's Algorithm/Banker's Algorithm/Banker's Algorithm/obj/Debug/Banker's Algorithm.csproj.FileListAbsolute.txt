@@ -1,0 +1,9 @@
+F:\Учеба\ОСь\РГР\Banker's Algorithm\Banker's Algorithm\bin\Debug\Banker's Algorithm.exe.config
+F:\Учеба\ОСь\РГР\Banker's Algorithm\Banker's Algorithm\bin\Debug\Banker's Algorithm.exe
+F:\Учеба\ОСь\РГР\Banker's Algorithm\Banker's Algorithm\bin\Debug\Banker's Algorithm.pdb
+F:\Учеба\ОСь\РГР\Banker's Algorithm\Banker's Algorithm\obj\Debug\Banker's Algorithm.csprojAssemblyReference.cache
+F:\Учеба\ОСь\РГР\Banker's Algorithm\Banker's Algorithm\obj\Debug\Banker_s_Algorithm.Form1.resources
+F:\Учеба\ОСь\РГР\Banker's Algorithm\Banker's Algorithm\obj\Debug\Banker_s_Algorithm.Properties.Resources.resources
+F:\Учеба\ОСь\РГР\Banker's Algorithm\Banker's Algorithm\obj\Debug\Banker's Algorithm.csproj.GenerateResource.cache
+F:\Учеба\ОСь\РГР\Banker's Algorithm\Banker's Algorithm\obj\Debug\Banker's Algorithm.exe
+F:\Учеба\ОСь\РГР\Banker's Algorithm\Banker's Algorithm\obj\Debug\Banker's Algorithm.pdb

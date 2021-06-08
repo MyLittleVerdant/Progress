@@ -1,0 +1,13 @@
+﻿@model IEnumerable<Complete>
+
+@foreach (var recruit in Model)
+{
+    <tr>
+        <td><p>@recruit.id</p></td>
+        <td><p>@recruit.Department</p></td>
+        <td><p>@recruit.Post</p></td>
+        <td><p>@recruit.Status</p></td>
+        <td><p>@recruit.Info</p></td>
+
+    </tr>
+}

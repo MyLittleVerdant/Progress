@@ -1,0 +1,16 @@
+﻿  Source.cpp
+D:\Учеба\WinAPI\7 лаба\S.T.AAAAAAAAA.R\S.T.AAAAAAAAA.R\Source.cpp(22,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Учеба\WinAPI\7 лаба\S.T.AAAAAAAAA.R\S.T.AAAAAAAAA.R\Source.cpp(51,21): warning C4018: <=: несоответствие типов со знаком и без знака
+D:\Учеба\WinAPI\7 лаба\S.T.AAAAAAAAA.R\S.T.AAAAAAAAA.R\Source.cpp(59,58): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\WinAPI\7 лаба\S.T.AAAAAAAAA.R\S.T.AAAAAAAAA.R\Source.cpp(59,36): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\WinAPI\7 лаба\S.T.AAAAAAAAA.R\S.T.AAAAAAAAA.R\Source.cpp(59,11): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\WinAPI\7 лаба\S.T.AAAAAAAAA.R\S.T.AAAAAAAAA.R\Source.cpp(58,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\WinAPI\7 лаба\S.T.AAAAAAAAA.R\S.T.AAAAAAAAA.R\Source.cpp(61,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\WinAPI\7 лаба\S.T.AAAAAAAAA.R\S.T.AAAAAAAAA.R\Source.cpp(61,11): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\WinAPI\7 лаба\S.T.AAAAAAAAA.R\S.T.AAAAAAAAA.R\Source.cpp(60,59): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\WinAPI\7 лаба\S.T.AAAAAAAAA.R\S.T.AAAAAAAAA.R\Source.cpp(60,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\WinAPI\7 лаба\S.T.AAAAAAAAA.R\S.T.AAAAAAAAA.R\Source.cpp(78,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\WinAPI\7 лаба\S.T.AAAAAAAAA.R\S.T.AAAAAAAAA.R\Source.cpp(78,38): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\WinAPI\7 лаба\S.T.AAAAAAAAA.R\S.T.AAAAAAAAA.R\Source.cpp(79,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\WinAPI\7 лаба\S.T.AAAAAAAAA.R\S.T.AAAAAAAAA.R\Source.cpp(79,38): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  S.T.AAAAAAAAA.R.vcxproj -> D:\Учеба\WinAPI\7 лаба\S.T.AAAAAAAAA.R\Debug\S.T.AAAAAAAAA.R.exe

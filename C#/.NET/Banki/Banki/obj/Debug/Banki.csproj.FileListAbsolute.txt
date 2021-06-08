@@ -1,0 +1,45 @@
+C:\Users\Verdant\Desktop\Banki\Banki\bin\Debug\Banki.exe.config
+C:\Users\Verdant\Desktop\Banki\Banki\bin\Debug\Banki.exe
+C:\Users\Verdant\Desktop\Banki\Banki\bin\Debug\Banki.pdb
+C:\Users\Verdant\Desktop\Banki\Banki\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Verdant\Desktop\Banki\Banki\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Verdant\Desktop\Banki\Banki\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Verdant\Desktop\Banki\Banki\obj\Debug\Banki.csprojAssemblyReference.cache
+C:\Users\Verdant\Desktop\Banki\Banki\obj\Debug\Banki.FormMain.resources
+C:\Users\Verdant\Desktop\Banki\Banki\obj\Debug\Banki.Properties.Resources.resources
+C:\Users\Verdant\Desktop\Banki\Banki\obj\Debug\Banki.csproj.GenerateResource.cache
+C:\Users\Verdant\Desktop\Banki\Banki\obj\Debug\Banki.csproj.CoreCompileInputs.cache
+C:\Users\Verdant\Desktop\Banki\Banki\obj\Debug\Banki.csproj.CopyComplete
+C:\Users\Verdant\Desktop\Banki\Banki\obj\Debug\Banki.exe
+C:\Users\Verdant\Desktop\Banki\Banki\obj\Debug\Banki.pdb
+C:\Users\Verdant\Desktop\Banki\Banki\obj\Debug\Banki.FormBank.resources
+D:\Учеба\.NET\Banki\Banki\bin\Debug\Banki.exe.config
+D:\Учеба\.NET\Banki\Banki\bin\Debug\Banki.exe
+D:\Учеба\.NET\Banki\Banki\bin\Debug\Banki.pdb
+D:\Учеба\.NET\Banki\Banki\bin\Debug\HtmlAgilityPack.dll
+D:\Учеба\.NET\Banki\Banki\bin\Debug\HtmlAgilityPack.pdb
+D:\Учеба\.NET\Banki\Banki\bin\Debug\HtmlAgilityPack.xml
+D:\Учеба\.NET\Banki\Banki\obj\Debug\Banki.csprojAssemblyReference.cache
+D:\Учеба\.NET\Banki\Banki\obj\Debug\Banki.FormBank.resources
+D:\Учеба\.NET\Banki\Banki\obj\Debug\Banki.FormMain.resources
+D:\Учеба\.NET\Banki\Banki\obj\Debug\Banki.Properties.Resources.resources
+D:\Учеба\.NET\Banki\Banki\obj\Debug\Banki.csproj.GenerateResource.cache
+D:\Учеба\.NET\Banki\Banki\obj\Debug\Banki.csproj.CoreCompileInputs.cache
+D:\Учеба\.NET\Banki\Banki\obj\Debug\Banki.csproj.CopyComplete
+D:\Учеба\.NET\Banki\Banki\obj\Debug\Banki.exe
+D:\Учеба\.NET\Banki\Banki\obj\Debug\Banki.pdb
+D:\Учеба\3 курс\.NET\Banki\Banki\bin\Debug\Banki.exe.config
+D:\Учеба\3 курс\.NET\Banki\Banki\bin\Debug\Banki.exe
+D:\Учеба\3 курс\.NET\Banki\Banki\bin\Debug\Banki.pdb
+D:\Учеба\3 курс\.NET\Banki\Banki\bin\Debug\HtmlAgilityPack.dll
+D:\Учеба\3 курс\.NET\Banki\Banki\bin\Debug\HtmlAgilityPack.pdb
+D:\Учеба\3 курс\.NET\Banki\Banki\bin\Debug\HtmlAgilityPack.xml
+D:\Учеба\3 курс\.NET\Banki\Banki\obj\Debug\Banki.csproj.AssemblyReference.cache
+D:\Учеба\3 курс\.NET\Banki\Banki\obj\Debug\Banki.FormBank.resources
+D:\Учеба\3 курс\.NET\Banki\Banki\obj\Debug\Banki.FormMain.resources
+D:\Учеба\3 курс\.NET\Banki\Banki\obj\Debug\Banki.Properties.Resources.resources
+D:\Учеба\3 курс\.NET\Banki\Banki\obj\Debug\Banki.csproj.GenerateResource.cache
+D:\Учеба\3 курс\.NET\Banki\Banki\obj\Debug\Banki.csproj.CoreCompileInputs.cache
+D:\Учеба\3 курс\.NET\Banki\Banki\obj\Debug\Banki.csproj.CopyComplete
+D:\Учеба\3 курс\.NET\Banki\Banki\obj\Debug\Banki.exe
+D:\Учеба\3 курс\.NET\Banki\Banki\obj\Debug\Banki.pdb

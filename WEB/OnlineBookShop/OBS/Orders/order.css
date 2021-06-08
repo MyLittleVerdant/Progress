@@ -1,0 +1,141 @@
+body{
+    font-size: 14px;
+    margin: 0;
+    color: #525252;
+    font-family: 'Redressed', cursive;
+}
+
+
+*,
+*::before,
+*::after
+{
+    box-sizing: border-box;
+}
+
+
+.main_box{
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+
+/* HEADER */
+
+.header{
+    background: linear-gradient(to top, #ebebeb, #ffffff);
+    display: flex;
+    height: 110px;
+}
+
+
+.icon_box{
+    margin-top: 10px;
+}
+
+
+.autograph{
+    
+     color: #fff;
+    background-color: #7db863;
+    height: 70px;
+    width: 460px;
+    margin-top: 20px;
+    margin-left: 50px;
+    outline: 2px solid #000;
+}
+
+
+.autograph_text{
+    text-align: center;
+    margin-top: 18px;
+    font-size: 30px;
+}
+
+
+.btn_box{
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+
+.btn{
+    font-family: 'Redressed', cursive;
+    color: #fff;
+    background-color: #7db863;
+    margin-right: 20px;
+    width: 100px;
+    height: 30px;
+}
+
+
+.btn:last-child{
+   margin-right: 0px; 
+}
+
+.drop_menu {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+
+.drop_menu a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+
+.drop_menu a:hover {background-color: #ddd;}
+
+
+.button_profile:hover .drop_menu {display: block;}
+
+
+.button_profile:hover  {background-color: #3e8e41;}
+/* BODY */
+.Cart
+{
+    outline: 2px solid #ececec;
+    margin-top: 10px;
+}
+.about{
+    height: 60px;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 10px;
+    outline: 2px solid #ececec;
+}
+
+.CartProducts{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 770px;
+    margin: 0 auto;
+    overflow: hidden;
+    transition: 0.5s all; 
+}
+
+.product{
+    max-width: 172px;
+    margin: 10px;
+    
+}
+
+.price{
+    font-size: 18px;
+    margin-right: 85px;
+}
+.cart{
+    font-size: 20px;
+    width: 35px;
+}
+.cart:hover  {background-color: #3e8e41;}
+
+
+

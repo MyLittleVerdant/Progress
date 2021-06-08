@@ -1,0 +1,43 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 20px;
+    color: white;
+    line-height: 1;
+        background: #7bcbc1;
+
+ 
+}
+/* ....................
+    PROFILE
+.....................*/
+.profile_block{
+  margin-left: 42%;  
+    text-align: center;
+   
+    
+}
+
+.block{
+     width: 300px;
+ display: block;
+    border: 1px solid black;
+    
+}
+
+.block:last-child{
+    border-bottom: none;
+}
+.img img{
+    left:50%;
+    top:50%;
+    max-width:100%;
+    max-height: 100%;
+}
+.under{
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+
+.button_change{
+  margin-left: 48%;
+}

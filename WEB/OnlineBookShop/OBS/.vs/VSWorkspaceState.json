@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AddBook",
+    "\\BookPage",
+    "\\Cart",
+    "\\change_pass",
+    "\\Extensions",
+    "\\Orders",
+    "\\Orders List",
+    "\\Profile",
+    "\\Sign"
+  ],
+  "SelectedNode": "\\Sign\\signup.php",
+  "PreviewInSolutionExplorer": false
+}

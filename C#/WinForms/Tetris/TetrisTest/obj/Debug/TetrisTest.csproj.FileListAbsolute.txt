@@ -1,0 +1,9 @@
+F:\Учеба\ВИРТ\TetrisTest\TetrisTest\bin\Debug\TetrisTest.exe.config
+F:\Учеба\ВИРТ\TetrisTest\TetrisTest\bin\Debug\TetrisTest.exe
+F:\Учеба\ВИРТ\TetrisTest\TetrisTest\bin\Debug\TetrisTest.pdb
+F:\Учеба\ВИРТ\TetrisTest\TetrisTest\obj\Debug\TetrisTest.csprojAssemblyReference.cache
+F:\Учеба\ВИРТ\TetrisTest\TetrisTest\obj\Debug\TetrisTest.Form1.resources
+F:\Учеба\ВИРТ\TetrisTest\TetrisTest\obj\Debug\TetrisTest.Properties.Resources.resources
+F:\Учеба\ВИРТ\TetrisTest\TetrisTest\obj\Debug\TetrisTest.csproj.GenerateResource.cache
+F:\Учеба\ВИРТ\TetrisTest\TetrisTest\obj\Debug\TetrisTest.exe
+F:\Учеба\ВИРТ\TetrisTest\TetrisTest\obj\Debug\TetrisTest.pdb

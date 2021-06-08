@@ -1,0 +1,20 @@
+F:\Учеба\ВИРТ\11 лаба\11 лаба\bin\Debug\11 лаба.exe.config
+F:\Учеба\ВИРТ\11 лаба\11 лаба\bin\Debug\11 лаба.exe
+F:\Учеба\ВИРТ\11 лаба\11 лаба\bin\Debug\11 лаба.pdb
+F:\Учеба\ВИРТ\11 лаба\11 лаба\obj\Debug\11 лаба.csprojAssemblyReference.cache
+F:\Учеба\ВИРТ\11 лаба\11 лаба\obj\Debug\_11.Form1.resources
+F:\Учеба\ВИРТ\11 лаба\11 лаба\obj\Debug\_11_лаба.Properties.Resources.resources
+F:\Учеба\ВИРТ\11 лаба\11 лаба\obj\Debug\11 лаба.csproj.GenerateResource.cache
+F:\Учеба\ВИРТ\11 лаба\11 лаба\obj\Debug\11 лаба.csproj.CoreCompileInputs.cache
+F:\Учеба\ВИРТ\11 лаба\11 лаба\obj\Debug\11 лаба.exe
+F:\Учеба\ВИРТ\11 лаба\11 лаба\obj\Debug\11 лаба.pdb
+D:\Учеба\2 курс\ВИРТ\11 лаба\11 лаба\bin\Debug\11 лаба.exe.config
+D:\Учеба\2 курс\ВИРТ\11 лаба\11 лаба\bin\Debug\11 лаба.exe
+D:\Учеба\2 курс\ВИРТ\11 лаба\11 лаба\bin\Debug\11 лаба.pdb
+D:\Учеба\2 курс\ВИРТ\11 лаба\11 лаба\obj\Debug\_11.Form1.resources
+D:\Учеба\2 курс\ВИРТ\11 лаба\11 лаба\obj\Debug\_11_лаба.Properties.Resources.resources
+D:\Учеба\2 курс\ВИРТ\11 лаба\11 лаба\obj\Debug\11 лаба.csproj.GenerateResource.cache
+D:\Учеба\2 курс\ВИРТ\11 лаба\11 лаба\obj\Debug\11 лаба.csproj.CoreCompileInputs.cache
+D:\Учеба\2 курс\ВИРТ\11 лаба\11 лаба\obj\Debug\11 лаба.exe
+D:\Учеба\2 курс\ВИРТ\11 лаба\11 лаба\obj\Debug\11 лаба.pdb
+D:\Учеба\2 курс\ВИРТ\11 лаба\11 лаба\obj\Debug\11 лаба.csproj.AssemblyReference.cache
