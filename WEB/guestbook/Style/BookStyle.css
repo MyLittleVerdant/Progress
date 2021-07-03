@@ -1,0 +1,86 @@
+
+
+body {
+    font-size: 14px;
+    margin: 0;
+    color: #525252;
+    font-family: 'Noto Sans KR', sans-serif;
+    background-image: url("/Style/back.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+*,
+*::before,
+*::after
+{
+    box-sizing: border-box;
+}
+
+
+.main_box{
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+
+/* HEADER */
+
+.header {
+    background: linear-gradient(to top, #ebebeb, #ffffff);
+    display: flex;
+    height: 110px;
+    justify-content: center;
+    font-family: 'Redressed', cursive;
+}
+
+.New {
+    background: linear-gradient(to top,#ffffff, #ebebeb);
+    height: auto;
+    padding-bottom: 10px;
+    
+    text-align: center;
+}
+
+.autograph {
+    color: #fff;
+    background-color: #74b01c;
+    height: 70px;
+    width: 460px;
+    margin-top: 20px;
+    margin-left: 50px;
+    outline: 2px solid #000;
+}
+
+
+.autograph_text{
+    text-align: center;
+    margin-top: 18px;
+    font-size: 30px;
+}
+
+
+
+.forma {
+    margin-left: 40%;
+    width: auto;
+    text-align: center;
+}
+
+.form_btn {
+    margin-left: 15%;
+    margin-top:10px;
+    width: 25%;
+}
+
+.AllEntryTable {
+    background: linear-gradient(to top,#ebebeb, #ffffff);
+    height: auto;
+    padding:10px;
+    
+    border-top: 1px solid black;
+   
+}
+
