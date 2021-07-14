@@ -6,18 +6,17 @@ include('CaptchaInterface.php');
 
 class CaptchaField implements CaptchaInterface
 {
-    public function session_write($code)
+    public function sessionWrite($code)
     {
         session_start();
         $_SESSION['captcha_field'] = $code;
     }
 
-    public function generate_code()
+    public function generateCode(): string
     {
-        $captcha_field = md5(md5(uniqid('', true) . date('His')));
-        $this->session_write($captcha_field);
+        $captcha_field = md5(uniqid('', true) . date('His'));
+        $this->sessionWrite($captcha_field);
 
         return $captcha_field;
     }
-
 }

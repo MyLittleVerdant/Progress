@@ -1,29 +1,19 @@
 <?php
 
-    
-    $host = 'localhost'; // ����� ������� 
-    $database = 'guestbook'; // ��� ���� ������
-    $user = 'root'; // ��� ������������
-    $password = 'greenhood13'; // ������
 
-    $mysql=new mysqli($host, $user, $password, $database); 
-   
+$host = 'localhost';
+$database = 'guestbook';
+$user = 'root';
+$password = 'greenhood13';
 
-    if(isset($_POST['Info']))
-    {
-        $get_entries =$mysql->query("SELECT `UserName`,`E-mail`,`Homepage`,`DateTime`, `Text`FROM `entry`");
-        
-        while ($row = $get_entries->fetch_assoc())
-        {
-             $entry_list[]=$row;   
-        }
-        
-        echo json_encode($entry_list);
-    }
-    
-
-    $mysql->close();  
+$mysql = new PDO("mysql:host=localhost;dbname=guestbook", $user, $password);
 
 
+if (isset($_POST['Info'])) {
+    $query = $mysql->prepare("SELECT `UserName`,`E-mail`,`Homepage`,`DateTime`, `Text`FROM `entry`");
+    $query->execute();
 
-?>
+    $get_entries = $query->fetchAll();
+
+    echo json_encode($get_entries);
+}
