@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HiReDModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Interview">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Post" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="FIO" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="PhoneNumber" Type="String" MaxLength="12" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Comment" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Recruitments" Relationship="Self.FK_Recruitment_Interview" FromRole="Interview" ToRole="Recruitment" />
+  </EntityType>
+  <EntityType Name="Recruitment">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Department" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Post" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Status" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Info" Type="Int32" />
+    <NavigationProperty Name="Interview" Relationship="Self.FK_Recruitment_Interview" FromRole="Recruitment" ToRole="Interview" />
+  </EntityType>
+  <Association Name="FK_Recruitment_Interview">
+    <End Role="Interview" Type="Self.Interview" Multiplicity="0..1" />
+    <End Role="Recruitment" Type="Self.Recruitment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Interview">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Recruitment">
+        <PropertyRef Name="Info" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="HiReDEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Interviews" EntityType="Self.Interview" />
+    <EntitySet Name="Recruitments" EntityType="Self.Recruitment" />
+    <AssociationSet Name="FK_Recruitment_Interview" Association="Self.FK_Recruitment_Interview">
+      <End Role="Interview" EntitySet="Interviews" />
+      <End Role="Recruitment" EntitySet="Recruitments" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

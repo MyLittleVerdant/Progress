@@ -1,0 +1,3 @@
+﻿  graph1.cpp
+F:\Учеба\САОД\4 семестр\Графы\graph1\graph1\graph1.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  graph1.vcxproj -> F:\Учеба\САОД\4 семестр\Графы\graph1\Debug\graph1.exe

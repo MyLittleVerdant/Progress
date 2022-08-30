@@ -1,0 +1,8 @@
+﻿  search.cpp
+F:\Учеба\САОД\4 семестр\Поиск\search\search\search.cpp(30,22): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Учеба\САОД\4 семестр\Поиск\search\search\search.cpp(35,33): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Учеба\САОД\4 семестр\Поиск\search\search\search.cpp(92,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+F:\Учеба\САОД\4 семестр\Поиск\search\search\search.cpp(94,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+F:\Учеба\САОД\4 семестр\Поиск\search\search\search.cpp(20): warning C4715: compare: значение возвращается не при всех путях выполнения
+F:\Учеба\САОД\4 семестр\Поиск\search\search\search.cpp(90): warning C4715: search: значение возвращается не при всех путях выполнения
+  search.vcxproj -> F:\Учеба\САОД\4 семестр\Поиск\search\Debug\search.exe

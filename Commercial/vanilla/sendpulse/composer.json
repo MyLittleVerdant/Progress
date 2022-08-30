@@ -1,0 +1,8 @@
+{
+  "name": "owl-verdant/sendpulse",
+  "description": "Добавление нового лида в адресную книгу doc -dent -med -deti на SendPulse",
+  "autoload": {
+    "classmap": ["src"]
+  },
+  "minimum-stability": "dev"
+}

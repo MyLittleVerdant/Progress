@@ -1,0 +1,229 @@
+"AUTH. $_POST"
+{
+  "Amount": "11",
+  "Currency": "RUB",
+  "IpAddress": "91.193.177.230",
+  "Description": "Отдай 11 рублей",
+  "Name": "OLGA SIDOROVA ",
+  "CardCryptogramPacket": "015100691042231202EOTLXzlHf6zoTe5iqvLdViYUVGtqZSDA6hg7vFHKf0Bd\/QQPBasr9xXZSt4+6j7VKqziWs36fIoBm5vdt4802J4e5Sw0O9\/HQ6kHWcSZ86ck8PEIpA04ZjUGPRiQuKATlonSu8TsgJM00Jkd4S3nlhUX3niRXMrUiMRLUWCaXXB4UC2dPxy5YLEUJUluWEW6oorUHDma6c2uF62d2yyjMmALotC5N\/I3cm5jUXUfy37T1uiV4ir\/juqJmJbioaSvypSUE1GY+k+d2\/14m9i5kf1hGU4MXMlash89gRrrOPrXPQQtSVt6bGLiTRN\/0YEfKRQ4Pwq962S9tkNf2yGkyg==",
+  "AccountId": "15564673"
+}
+"Response AUTH"
+{
+  "Model": {
+    "TransactionId": 938418565,
+    "PaReq": "eJxVUtFygjAQ\/BWHdzgSENQ54tDaTn3AOq39gBiiYgU0QEf8+iYWqubpdi93t9kLTs\/5YfAjVZWVRWQRx7UGshBlmhXbyPpavdoja8pwtVNSzj6laJRkmMiq4ls5yNLI2qzXIgg93954gtg+5b49Dj1p+yFdjzejMA1JYDFcxh\/yxLAbxPQchyL0UHdUYseLmiEXp6f5gg0p8aiP0EHMpZrPGHW7E1KP0ADhj8aC55IdeevkZSFbe1seUoQriaJsilq1LPA9hB5gow5sV9fHagLwWOeoBhBMHuGmatmYqNL9zlnKklXSLmbisti\/0OSyPb+vvttkFrvJPo4QzA1MeS21XEoIoeMBGU6oO3FdhCuPPDdCGCGG6gAezYz4PnPPoLZe6c30L+kRyvNRi9c3tJ\/\/McJN8fObcVXU2qjRMKBDd+y7xDh7pUx9pi0xhl4bGIBgiqBbGnT71tHDP\/gFQe65HQ==",
+    "GoReq": null,
+    "AcsUrl": "https: \/\/ds1.mirconnect.ru: 443\/sc1\/pareq",
+    "ThreeDsSessionData": null,
+    "IFrameIsAllowed": true,
+    "FrameWidth": null,
+    "FrameHeight": null,
+    "ThreeDsCallbackId": "32fc3474a76346aeb906c4a17b4be51e",
+    "EscrowAccumulationId": null
+  },
+  "Success": false,
+  "Message": null
+}
+"Take Payment Start. $_POST"
+{
+  "PaRes": "eJzVWdmuo9iS\/ZVS3Ucri9k2JeeR9ma2Gcxkg9+Y58EMBvz1jc\/Jk5WVqtKtbnVLt3kBgiB2bCLWWhs4WGkXRawZBWMXvR2UqO+9JPolC7\/+Gvt+sN0R5JeYCLAvJO6RX+gdEX0hd7hPx\/tduMO2v74dzsCI+vcbdiEdxHFAfIm9PfWFJEP8i7+n\/C80uSViMqD9AI\/XGx5R12dN\/Yb9hv6GH5DP03XsLki9eng7eMEdSuobhWMETh6Qb6eHKuok9g1Hv207nMDw7QH5MB+QP+4\/j6+jfp3PnIVviqUsKhs81ZzDlWcya1axKCxAlRx8PSAvj0PoDdEaGMcwDKd\/wajfcfR3FD0g7\/ZD+woHqmZcY2PYy\/6j5bA+uS6qg+VtSxIH5PvZIZrbpo5Wj3WS348PyB\/JtV79hv6wYSi5ur6sB8t5OwxZ9ZdJvdsP\/eANY\/\/mHpBvR4fAezzecvFBFfE2m2jxyUBu0SxpYSzw2tbJvrscoiB7Q19Jrfv3u0CZNF02pNUb8eHzh+GAvFJB3ov8djCzpF4H66Jf5qqs+6+\/psPQ\/o4g0zT9NhG\/NV2CvMqDoDSyOoR9lvzr14+7olCq4+btwHh1U2eBV2ZPb1jLrkRD2oS\/fB\/wr0Jaxisqhhgc82UN+yXAyPrLy4ISGLXGR\/466A\/p\/pNRfk68670vfephrwF+CvR2MKI4epU5+sU2pK+\/\/usftj6bJVE\/\/E+y+czkxwif8S5eOUZv9X5\/9ZxJUC5jWEiibfl7nq+2QnJuvn7e9+F5QL6n\/21un9X5Ps8Px0ar1CiBgfwoKCM83ghTi08GctmcxHGE4ZLEauPmeuH3yPZUU4MXs9A9Fm6PDPTG5bAEa3dXOyoudOJaUoGXj6ikq3LymLOymPIpSRLFn9QCkwXVQ5yy3ssn81jod4eb81LRBVZm1vwgfY\/n0kwxkYjdcXvfm5aq0c\/K5ihjkBhW7Y9uILXTc0MY09jeSFVFZkeS01T3TX0hU8+lxhDflsUjZ0lE6svLnb6xj5OmM1cfm4bmtMRqiSsTEh2BSwZnIxAVomNMP+iz6bTTj8uFGqXG2JAP5IayTa4j9+XY7LM0q0YjFAI6nReTWZBTG3UNHQZdedtL\/GzCTkPRGMwC6VSeAo9muoCvX39oqG8VOUXLRwUcCqVZb\/A+jpioG7J47eyVhhRJ4s0nw0BWS8AkQZBIutJsN14\/K2TDdpyPo8wmo5YnUGFS3NMiE+gJhUDvecDCWdH7idFd9qLrAjcdzYvFUQobCACzOSaZJqviUe9Kj+51SmyBp\/zr2kjraK5zLCRepQLCKH0Tnny8fNmtUKBzb4Gsj2OTe6UoxQym40d8loWU6jlH6OJqGYh6crPVh3\/FyqBSS4krnwFxaf0qSHSUm8Q0UJWcm1SLQ1eqxrSVmq\/vNuWbTZ\/ebTkDiycnK6B4zxmmCmOX9sy+z1e9rA9EgQX2CHD1ET65swLQD79pEqwr\/XRxmlAMZeI+cpRZ0CyrBMyrJEzrflKsYlKn92undQKa6xitj1Opz0DddcrhdqVQiVPToNITmyifoXAZJK59eC87r6I+rnbr9YfvwNSvi5nLgf6Rl7ImirVBwecufplClmGAKU2s7h5PzU1KH4EKdA5CHbBJwp3B67reMOsxBPJyIdjLPQmIfBr6XQXNIrQ3197JN1083bapj+lrLzHDhmPr2zFUT614LGumbJZbDZsh3usutw+PbTM4\/dOu98zAKTs1Ji\/oLJN7uEuv3qnJtrGC0n55l+B5d03bMjH3R8cKzPZc4rBNohwWu5rVaKgHiBJeT+19cVAVmxbV9hEdkQ1b34itbFDdCuyMp9Y2vD4FK9ydPemqdo9u6O5t7XHkyF9l7jw4uXvJA4seDLE0lHmP4UdqyLgTncRii++3lcbVt9Fht9WdYOkxNgMTLaHlUOdCWqxzxhbXk2dRqcAT7QquYJNven4OHDNAtyejtivt6tqyjJ85F4iReWWKC1iBq+QEfy\/RgAETB4CnMcBvpiQRcAWQr14J2YmDyKRzK77EhGVg8+oVA82hJNwUSbgm0HhwghW7wzkd74RQZOkzF\/dL6zw22Z3vWqGYbn\/Ro5oFiI9eaBSFo9JQKB9+xfcSD9NoxYVf64mO88ttxVXkqOjtiiZmRbcvu00YDxfv1+v0EAj8GFlcqMD+PT6YJtsqVd1c1spU5bBilZL448Mn1niowHA6I+YddX9yTzHRAiMn4OZG7noFoh\/zTfQrhEai083GOm+L5nw099OeLB97yBSMoViwfuUtGnvOZWGkMHhy2oI2zcImFI1Jy\/aPm6jMcrX2d7X2fkWVLqGPQW0\/3Kv6wnnm4tykmFQeVNMke6BrmEo44ikaimArL3QRPKXRv5bLis\/Rry55yFBLaNKpS6jP8HrMXQus8dXFZyEJk6SDCcevs115zegVoZmUyZVOk7vixxYVcPopNvdPYpdBDp4\/xJ5A49aeaKAB2zxk3Hgq2SpuzjFf+WC8XVVUro+YjPN5QKiYW6mpwnLjiu3lxTmMeRdMySfYFdPMZANArlytw6bZ0lsbSF7q69m0qh4+WtYxpAIMd89Yfqpzu3hS0vF8mXCqmup6rHAkUEQhLhM9vszESQOp1HgyE6qPzNx5M1seE4jIsYN1qtvTFjPrbla7qh3CDJNbq6Y5QHoLTxVWZrG7Zh+bTBZxdLQ3eItSPDaiInurwO4+46eJVW9msdTm9uYl22RPzJh5hoylD9Fj1\/C7gbAgJYvw3OzGJEQwVRZPt4ctKUnIBWMy+El1GdVg7O+RYOdSo3Sb7syMm+Wk1fWdHsobJ9tXh2+h0J0dvsO1QOtKms+4u2anfITuwmPZIL1aUINz9x+SiOw3wuBvlodUNJiA+TUxqxhZnkgzmu94RcY13xyQn1XyL2UzXSkVCsunbBpAirRH1a1qEwFqFs6BSNX5OP1MyfJKyf9BcP4mlVYwqU9plUX3JZfUh1Tqnzbs3Zb\/58r9KmvZzzAB+gdM2Am8rp9A84IMK6VAxrvredveldmYr0K2LymIBnN7243TOX6wmhcLBCZbqU1OK54zMxi6px6SCx9Vxk0q5YzfAddcIvXcTgwrXOrnYElWLEeiFaq+zpz3OOJuxOm0KJx940r53nf4+d4MdFSap9ksk+KheYCI7iyBtHrphE+yFcBKON0V0pJNXFTNmvfrA17lIBwxZrOuNvzKq5YGV5fb+eqQN393JXfFyfSMQBqUrROcsmOA40F43GrnWbyBtt2H4ErtgbKbNlmbLQNNHCW3CCJwXbJGmSvYcee7EfnjfgdTdKZb7enL7vKcl3YpVeno2aZnkYHmVun06JTbHnDazrM9XB7uz6EfyK3EICM1RPbutUoCQMiTRIpXbDDCE2jvFK\/vIYj3azEUBrjuJH5Inwahy\/HCXr+pdIZuhG0XeOZJ1JT4eSqjddmvgP27lHAf0skrQHnFWQV2xdKLloHAqLMN3+OueEo87t1fmkxYWQwsG2C7nLY0oXsi2DhW1YWqYNMtG6w8OnjqbY1WEYKZeYLjB+ZW0i6Pl\/\/t5ZpoAf9zucZzlGVzfWKLx9a\/8ktkQtPH6Vc8mKQcSMmPZfdMsjV34x9e5Z4uTzh\/SqWXw0ZhT4lyAmOazf9WKoPPcZwX1o0fJA8sDcskcuP2\/1aOCLh4VywN6nJ55fqj7CauJDDMyjG6zcO1TlB012UoIH+SvD+PYf7zMW6ONGngzzIsC\/9W4qdPjgsq+hEKP8go03\/0FNALhTkB9ilNP\/EeeW3WJf66fF9fDYiV\/2Y1V0jlefT+XoIZKN\/FercW\/qgUlRlStQN6b2DhqX2yICs7476njuo+ph3TttV7dLpkZRFtdjkUIiwVa\/PiE+ckPZMkGJJ0aJpjSuvBXe8qFDfLhvCF4HqtKqGkJRw5P6JO7rbBaBVVblQ+PfvTsMXvxBGfRK69NbrBp4XX+jJ60VVDDEDKu4lH9Lg2bSHHhQm17bZu4Jxld1gXTdDe0xfvZgP8yYNYl65LTBdR6MQ4Xm6M8FHMmxTmvYwEI7mVkRPu8tapo48Drz8Cud+dc55zxvM13tnJvq8HUBJknM\/jdiJKn\/bP4ekKIGXvOgrBGXrbY0RB84+i3N1m0W8lG6Muaqeblx09MkleFh6TkglWx\/9MgllyfXMF\/fh3Emz4eFsxZfD\/SYKfygpTNefmdwl+cn+25bD+P5dgA52E6VOCDc3GoLzO\/xtEi8R+wWqNp1v\/jTdOxXWyJ7PQ0jyvU3bMchJYsHHjfM+J5hYa4zJct7BcNsGqoBIzuV7jZKdgOd6kTKhuM8doBrHWIHsIit517MWSiq2V+cbIncrOjG5mrB9LDKExoCJ28Ox1zUELIgOXu6ds0GnxH+llfOTmhePJPC3bTUkqrpEpld7u24CeJBmcHFCQy61jku09gncQ08\/rQuwcWwoqNsKH9Dbh5OY6WCURXzyjfoLHXcEf9QPQ\/R3thTKKHr0bSZNUaKRlsNnazVQG0A1csO2x317C5qquj7YTbiJXlk9najYdhlv2lomRVfDQrLm5yVmjiAAbAnavXRMmRODK24onoRh7gXg52PkZ0hTfHzlJUj7fOGG2Sl6a\/xPJhWx\/F6\/MMBHE0wrGW+Kd9o\/hZl5oBXIrxb3oXIdJHtgg0TkWHNc6g\/OHBCkfcS3AAl1ElJcG\/+F\/WfcsSLhVqPd\/ssNJN999mTu\/4pSREwDAqydevn9LqwBDonkqLM3imGjglVNaGjCK2Aq\/a+3jDIvLVPcVzxTnTtEmaSFCqHA3Ic53pzst6OfxmPEaYtxmjUhEUnDy3hP2V4RrpG7ZWhc3QyuSoxjotWg+zXnip4V\/oalbvWjSnDkKrEKnu\/X7uzM3NkE76Lzj4u1cG8jktOtLi61LMx8\/ApzQSESe3F3sNlpK2e1eQcRCvmw2fSJNcmKkraAZakgoanFRjoY2HauQiR1LxzoepZFRyuh2kNb3nOfNQh2dHKPBtMhbt8LzLq7UGL+WMgbGFf6mc5nu+RRpHFI7ovIcYqZITQzgmUPnjBYaNOHZSVZF9nxu6e4CLxDLtRsvLiIvjPJ2Hi9\/QavIH98Gke\/fC\/\/4kvj+B+T9783ro\/2Pf3X+C1ANi50=",
+  "MD": "938418565"
+}
+"3DS. $_POST"
+{
+  "TransactionId": "938418565",
+  "PaRes": "eJzVWdmuo9iS\/ZVS3Ucri9k2JeeR9ma2Gcxkg9+Y58EMBvz1jc\/Jk5WVqtKtbnVLt3kBgiB2bCLWWhs4WGkXRawZBWMXvR2UqO+9JPolC7\/+Gvt+sN0R5JeYCLAvJO6RX+gdEX0hd7hPx\/tduMO2v74dzsCI+vcbdiEdxHFAfIm9PfWFJEP8i7+n\/C80uSViMqD9AI\/XGx5R12dN\/Yb9hv6GH5DP03XsLki9eng7eMEdSuobhWMETh6Qb6eHKuok9g1Hv207nMDw7QH5MB+QP+4\/j6+jfp3PnIVviqUsKhs81ZzDlWcya1axKCxAlRx8PSAvj0PoDdEaGMcwDKd\/wajfcfR3FD0g7\/ZD+woHqmZcY2PYy\/6j5bA+uS6qg+VtSxIH5PvZIZrbpo5Wj3WS348PyB\/JtV79hv6wYSi5ur6sB8t5OwxZ9ZdJvdsP\/eANY\/\/mHpBvR4fAezzecvFBFfE2m2jxyUBu0SxpYSzw2tbJvrscoiB7Q19Jrfv3u0CZNF02pNUb8eHzh+GAvFJB3ov8djCzpF4H66Jf5qqs+6+\/psPQ\/o4g0zT9NhG\/NV2CvMqDoDSyOoR9lvzr14+7olCq4+btwHh1U2eBV2ZPb1jLrkRD2oS\/fB\/wr0Jaxisqhhgc82UN+yXAyPrLy4ISGLXGR\/466A\/p\/pNRfk68670vfephrwF+CvR2MKI4epU5+sU2pK+\/\/usftj6bJVE\/\/E+y+czkxwif8S5eOUZv9X5\/9ZxJUC5jWEiibfl7nq+2QnJuvn7e9+F5QL6n\/21un9X5Ps8Px0ar1CiBgfwoKCM83ghTi08GctmcxHGE4ZLEauPmeuH3yPZUU4MXs9A9Fm6PDPTG5bAEa3dXOyoudOJaUoGXj6ikq3LymLOymPIpSRLFn9QCkwXVQ5yy3ssn81jod4eb81LRBVZm1vwgfY\/n0kwxkYjdcXvfm5aq0c\/K5ihjkBhW7Y9uILXTc0MY09jeSFVFZkeS01T3TX0hU8+lxhDflsUjZ0lE6svLnb6xj5OmM1cfm4bmtMRqiSsTEh2BSwZnIxAVomNMP+iz6bTTj8uFGqXG2JAP5IayTa4j9+XY7LM0q0YjFAI6nReTWZBTG3UNHQZdedtL\/GzCTkPRGMwC6VSeAo9muoCvX39oqG8VOUXLRwUcCqVZb\/A+jpioG7J47eyVhhRJ4s0nw0BWS8AkQZBIutJsN14\/K2TDdpyPo8wmo5YnUGFS3NMiE+gJhUDvecDCWdH7idFd9qLrAjcdzYvFUQobCACzOSaZJqviUe9Kj+51SmyBp\/zr2kjraK5zLCRepQLCKH0Tnny8fNmtUKBzb4Gsj2OTe6UoxQym40d8loWU6jlH6OJqGYh6crPVh3\/FyqBSS4krnwFxaf0qSHSUm8Q0UJWcm1SLQ1eqxrSVmq\/vNuWbTZ\/ebTkDiycnK6B4zxmmCmOX9sy+z1e9rA9EgQX2CHD1ET65swLQD79pEqwr\/XRxmlAMZeI+cpRZ0CyrBMyrJEzrflKsYlKn92undQKa6xitj1Opz0DddcrhdqVQiVPToNITmyifoXAZJK59eC87r6I+rnbr9YfvwNSvi5nLgf6Rl7ImirVBwecufplClmGAKU2s7h5PzU1KH4EKdA5CHbBJwp3B67reMOsxBPJyIdjLPQmIfBr6XQXNIrQ3197JN1083bapj+lrLzHDhmPr2zFUT614LGumbJZbDZsh3usutw+PbTM4\/dOu98zAKTs1Ji\/oLJN7uEuv3qnJtrGC0n55l+B5d03bMjH3R8cKzPZc4rBNohwWu5rVaKgHiBJeT+19cVAVmxbV9hEdkQ1b34itbFDdCuyMp9Y2vD4FK9ydPemqdo9u6O5t7XHkyF9l7jw4uXvJA4seDLE0lHmP4UdqyLgTncRii++3lcbVt9Fht9WdYOkxNgMTLaHlUOdCWqxzxhbXk2dRqcAT7QquYJNven4OHDNAtyejtivt6tqyjJ85F4iReWWKC1iBq+QEfy\/RgAETB4CnMcBvpiQRcAWQr14J2YmDyKRzK77EhGVg8+oVA82hJNwUSbgm0HhwghW7wzkd74RQZOkzF\/dL6zw22Z3vWqGYbn\/Ro5oFiI9eaBSFo9JQKB9+xfcSD9NoxYVf64mO88ttxVXkqOjtiiZmRbcvu00YDxfv1+v0EAj8GFlcqMD+PT6YJtsqVd1c1spU5bBilZL448Mn1niowHA6I+YddX9yTzHRAiMn4OZG7noFoh\/zTfQrhEai083GOm+L5nw099OeLB97yBSMoViwfuUtGnvOZWGkMHhy2oI2zcImFI1Jy\/aPm6jMcrX2d7X2fkWVLqGPQW0\/3Kv6wnnm4tykmFQeVNMke6BrmEo44ikaimArL3QRPKXRv5bLis\/Rry55yFBLaNKpS6jP8HrMXQus8dXFZyEJk6SDCcevs115zegVoZmUyZVOk7vixxYVcPopNvdPYpdBDp4\/xJ5A49aeaKAB2zxk3Hgq2SpuzjFf+WC8XVVUro+YjPN5QKiYW6mpwnLjiu3lxTmMeRdMySfYFdPMZANArlytw6bZ0lsbSF7q69m0qh4+WtYxpAIMd89Yfqpzu3hS0vF8mXCqmup6rHAkUEQhLhM9vszESQOp1HgyE6qPzNx5M1seE4jIsYN1qtvTFjPrbla7qh3CDJNbq6Y5QHoLTxVWZrG7Zh+bTBZxdLQ3eItSPDaiInurwO4+46eJVW9msdTm9uYl22RPzJh5hoylD9Fj1\/C7gbAgJYvw3OzGJEQwVRZPt4ctKUnIBWMy+El1GdVg7O+RYOdSo3Sb7syMm+Wk1fWdHsobJ9tXh2+h0J0dvsO1QOtKms+4u2anfITuwmPZIL1aUINz9x+SiOw3wuBvlodUNJiA+TUxqxhZnkgzmu94RcY13xyQn1XyL2UzXSkVCsunbBpAirRH1a1qEwFqFs6BSNX5OP1MyfJKyf9BcP4mlVYwqU9plUX3JZfUh1Tqnzbs3Zb\/58r9KmvZzzAB+gdM2Am8rp9A84IMK6VAxrvredveldmYr0K2LymIBnN7243TOX6wmhcLBCZbqU1OK54zMxi6px6SCx9Vxk0q5YzfAddcIvXcTgwrXOrnYElWLEeiFaq+zpz3OOJuxOm0KJx940r53nf4+d4MdFSap9ksk+KheYCI7iyBtHrphE+yFcBKON0V0pJNXFTNmvfrA17lIBwxZrOuNvzKq5YGV5fb+eqQN393JXfFyfSMQBqUrROcsmOA40F43GrnWbyBtt2H4ErtgbKbNlmbLQNNHCW3CCJwXbJGmSvYcee7EfnjfgdTdKZb7enL7vKcl3YpVeno2aZnkYHmVun06JTbHnDazrM9XB7uz6EfyK3EICM1RPbutUoCQMiTRIpXbDDCE2jvFK\/vIYj3azEUBrjuJH5Inwahy\/HCXr+pdIZuhG0XeOZJ1JT4eSqjddmvgP27lHAf0skrQHnFWQV2xdKLloHAqLMN3+OueEo87t1fmkxYWQwsG2C7nLY0oXsi2DhW1YWqYNMtG6w8OnjqbY1WEYKZeYLjB+ZW0i6Pl\/\/t5ZpoAf9zucZzlGVzfWKLx9a\/8ktkQtPH6Vc8mKQcSMmPZfdMsjV34x9e5Z4uTzh\/SqWXw0ZhT4lyAmOazf9WKoPPcZwX1o0fJA8sDcskcuP2\/1aOCLh4VywN6nJ55fqj7CauJDDMyjG6zcO1TlB012UoIH+SvD+PYf7zMW6ONGngzzIsC\/9W4qdPjgsq+hEKP8go03\/0FNALhTkB9ilNP\/EeeW3WJf66fF9fDYiV\/2Y1V0jlefT+XoIZKN\/FercW\/qgUlRlStQN6b2DhqX2yICs7476njuo+ph3TttV7dLpkZRFtdjkUIiwVa\/PiE+ckPZMkGJJ0aJpjSuvBXe8qFDfLhvCF4HqtKqGkJRw5P6JO7rbBaBVVblQ+PfvTsMXvxBGfRK69NbrBp4XX+jJ60VVDDEDKu4lH9Lg2bSHHhQm17bZu4Jxld1gXTdDe0xfvZgP8yYNYl65LTBdR6MQ4Xm6M8FHMmxTmvYwEI7mVkRPu8tapo48Drz8Cud+dc55zxvM13tnJvq8HUBJknM\/jdiJKn\/bP4ekKIGXvOgrBGXrbY0RB84+i3N1m0W8lG6Muaqeblx09MkleFh6TkglWx\/9MgllyfXMF\/fh3Emz4eFsxZfD\/SYKfygpTNefmdwl+cn+25bD+P5dgA52E6VOCDc3GoLzO\/xtEi8R+wWqNp1v\/jTdOxXWyJ7PQ0jyvU3bMchJYsHHjfM+J5hYa4zJct7BcNsGqoBIzuV7jZKdgOd6kTKhuM8doBrHWIHsIit517MWSiq2V+cbIncrOjG5mrB9LDKExoCJ28Ox1zUELIgOXu6ds0GnxH+llfOTmhePJPC3bTUkqrpEpld7u24CeJBmcHFCQy61jku09gncQ08\/rQuwcWwoqNsKH9Dbh5OY6WCURXzyjfoLHXcEf9QPQ\/R3thTKKHr0bSZNUaKRlsNnazVQG0A1csO2x317C5qquj7YTbiJXlk9najYdhlv2lomRVfDQrLm5yVmjiAAbAnavXRMmRODK24onoRh7gXg52PkZ0hTfHzlJUj7fOGG2Sl6a\/xPJhWx\/F6\/MMBHE0wrGW+Kd9o\/hZl5oBXIrxb3oXIdJHtgg0TkWHNc6g\/OHBCkfcS3AAl1ElJcG\/+F\/WfcsSLhVqPd\/ssNJN999mTu\/4pSREwDAqydevn9LqwBDonkqLM3imGjglVNaGjCK2Aq\/a+3jDIvLVPcVzxTnTtEmaSFCqHA3Ic53pzst6OfxmPEaYtxmjUhEUnDy3hP2V4RrpG7ZWhc3QyuSoxjotWg+zXnip4V\/oalbvWjSnDkKrEKnu\/X7uzM3NkE76Lzj4u1cG8jktOtLi61LMx8\/ApzQSESe3F3sNlpK2e1eQcRCvmw2fSJNcmKkraAZakgoanFRjoY2HauQiR1LxzoepZFRyuh2kNb3nOfNQh2dHKPBtMhbt8LzLq7UGL+WMgbGFf6mc5nu+RRpHFI7ovIcYqZITQzgmUPnjBYaNOHZSVZF9nxu6e4CLxDLtRsvLiIvjPJ2Hi9\/QavIH98Gke\/fC\/\/4kvj+B+T9783ro\/2Pf3X+C1ANi50="
+}
+"3DS Response"
+{
+  "Model": {
+    "ReasonCode": 0,
+    "PublicId": "pk_a856c6301763b18d72f3cec8b387e",
+    "TerminalUrl": "https:\/\/pay.money-gold.ru\/",
+    "TransactionId": 938418565,
+    "Amount": 11,
+    "Currency": "RUB",
+    "CurrencyCode": 0,
+    "PaymentAmount": 11,
+    "PaymentCurrency": "RUB",
+    "PaymentCurrencyCode": 0,
+    "InvoiceId": null,
+    "AccountId": "15564673",
+    "Email": null,
+    "Description": "Отдай 11 рублей",
+    "JsonData": null,
+    "CreatedDate": "\/Date(1638199199936)\/",
+    "PayoutDate": null,
+    "PayoutDateIso": null,
+    "PayoutAmount": null,
+    "CreatedDateIso": "2021-11-29T15:19:59",
+    "AuthDate": "\/Date(1638199208000)\/",
+    "AuthDateIso": "2021-11-29T15:20:08",
+    "ConfirmDate": null,
+    "ConfirmDateIso": null,
+    "AuthCode": "406233",
+    "TestMode": false,
+    "Rrn": "133315144047",
+    "OriginalTransactionId": null,
+    "FallBackScenarioDeclinedTransactionId": null,
+    "IpAddress": "91.193.177.230",
+    "IpCountry": "RU",
+    "IpCity": "Якутск",
+    "IpRegion": "Республика Саха (Якутия)",
+    "IpDistrict": "Дальневосточный федеральный округ",
+    "IpLatitude": 62.039261,
+    "IpLongitude": 129.746399,
+    "CardFirstSix": "510069",
+    "CardLastFour": "1042",
+    "CardExpDate": "12\/23",
+    "CardType": "MasterCard",
+    "CardProduct": "SAP",
+    "CardCategory": "SAP ()",
+    "EscrowAccumulationId": null,
+    "IssuerBankCountry": "RU",
+    "Issuer": "AO RAIFFEISENBANK",
+    "CardTypeCode": 1,
+    "Status": "Authorized",
+    "StatusCode": 2,
+    "CultureName": "ru",
+    "Reason": "Approved",
+    "CardHolderMessage": "Оплата успешно проведена",
+    "Type": 0,
+    "Refunded": false,
+    "Name": "OLGA SIDOROVA",
+    "Token": "tk_b649a50c9bf50d138d3bd1fcff387",
+    "SubscriptionId": null,
+    "GatewayName": "Tinkoff",
+    "ApplePay": false,
+    "AndroidPay": false,
+    "WalletType": "",
+    "TotalFee": 0
+  },
+  "Success": true,
+  "Message": null
+}
+"Refund Rouble. Cancel auth"
+{
+  "TransactionId": 938418565
+}
+"Refund Rouble. Cancel auth. Response"
+"{"Success":true,"Message":null}"
+"Check alredy money pay"
+null
+"Money pay"
+{
+  "AccountId": "15564673",
+  "Token": "tk_b649a50c9bf50d138d3bd1fcff387",
+  "Amount": "18500",
+  "Currency": "RUB",
+  "JsonData": {
+    "CustomerReceipt": {
+      "Items": [
+        {
+          "label": "Золотые украшения (лом)",
+          "price": "18500",
+          "quantity": 1,
+          "amount": "18500",
+          "vat": 0,
+          "method": 0,
+          "object": 0,
+          "measurementUnit": ""
+        }
+      ],
+      "taxationSystem": 2,
+      "Amounts": "18500",
+      "phone": "+7 (905) 748-67-67"
+    }
+  }
+  "
+}
+"Signature file name \/var\/www\/html\/payment\/signatures\/938418565.txt"
+"yes"
+"Money pay Response"
+{
+  "Model": {
+    "ReasonCode": 5204,
+    "PublicId": "pk_a856c6301763b18d72f3cec8b387e",
+    "TerminalUrl": "https:\/\/pay.money-gold.ru\/",
+    "TransactionId": 938418886,
+    "Amount": 18500,
+    "Currency": "RUB",
+    "CurrencyCode": 0,
+    "PaymentAmount": 18500,
+    "PaymentCurrency": "RUB",
+    "PaymentCurrencyCode": 0,
+    "InvoiceId": null,
+    "AccountId": "15564673",
+    "Email": null,
+    "Description": null,
+    "JsonData": {
+      "CustomerReceipt": {
+        "Items": [
+          {
+            "label": "Золотые украшения (лом)",
+            "price": "18500",
+            "quantity": 1,
+            "amount": "18500",
+            "vat": 0,
+            "method": 0,
+            "object": 0,
+            "measurementUnit": ""
+          }
+        ],
+        "taxationSystem": 2,
+        "Amounts": "18500",
+        "phone": "+7 (905) 748-67-67"
+      }
+    }
+    ",
+    "CreatedDate": "Date(1638199211303)",
+    "PayoutDate": null,
+    "PayoutDateIso": null,
+    "PayoutAmount": null,
+    "CreatedDateIso": "2021-11-29T15:20:11",
+    "AuthDate": null,
+    "AuthDateIso": null,
+    "ConfirmDate": null,
+    "ConfirmDateIso": null,
+    "AuthCode": null,
+    "TestMode": false,
+    "Rrn": null,
+    "OriginalTransactionId": null,
+    "FallBackScenarioDeclinedTransactionId": null,
+    "IpAddress": "178.154.215.139",
+    "IpCountry": "RU",
+    "IpCity": "Якутск",
+    "IpRegion": "Республика Саха (Якутия)",
+    "IpDistrict": "Дальневосточный федеральный округ",
+    "IpLatitude": 55.755787,
+    "IpLongitude": 37.617634,
+    "CardFirstSix": "510069",
+    "CardLastFour": "1042",
+    "CardExpDate": "12\/23",
+    "CardType": "MasterCard",
+    "CardProduct": "SAP",
+    "CardCategory": "SAP ",
+    "EscrowAccumulationId": null,
+    "IssuerBankCountry": "RU",
+    "Issuer": "AO RAIFFEISENBANK",
+    "CardTypeCode": 1,
+    "Status": "Declined",
+    "StatusCode": 5,
+    "CultureName": "ru",
+    "Reason": "UnableToProcess",
+    "CardHolderMessage": "Сервис временно недоступен. Пожалуйста, повторите попытку позже",
+    "Type": 2,
+    "Refunded": false,
+    "Name": "OLGA SIDOROVA",
+    "Token": "tk_b649a50c9bf50d138d3bd1fcff387",
+    "SubscriptionId": null,
+    "GatewayName": "Tinkoff",
+    "ApplePay": false,
+    "AndroidPay": false,
+    "WalletType": "",
+    "TotalFee": 0
+  },
+  "Success": false,
+  "Message": null
+}

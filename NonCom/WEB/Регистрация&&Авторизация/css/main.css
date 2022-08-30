@@ -1,0 +1,824 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 12px;
+    color: #686b68;
+    line-height: 1;
+    background: #e9eae2;
+ 
+}
+
+
+a{
+text-decoration:none;
+}
+
+/* ....................
+    HEADER
+.....................*/
+.header{
+    display: flex;
+    height: 500px;
+    margin-bottom: 0px;
+}
+
+/* ....................
+    PANEL#1
+.....................*/
+
+
+.button_print
+{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 15px;
+}
+
+.modal{
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top:0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.8);
+}
+
+
+.errors{
+    color: red;
+    position: fixed;
+    background-color:white;
+    text-align: center;
+    width:100px;
+    height: 3%;
+    text-align: center;
+    margin-left: 45%;
+    display: block;
+}
+
+
+.modal_sign_up{
+    color: white;
+    text-align: center;
+    background-color: #7bcbc1;
+    margin: 15% auto;
+    padding: 20px;
+    width:20%;
+    height:62%;
+}
+
+.modal_sign_in{
+    color: white;
+    text-align: center;
+    background-color: #7bcbc1;
+    margin: 15% auto;
+    padding: 20px;
+    width:20%;
+    height:22%;
+}
+
+.close{
+    color:white;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+
+
+
+.brown_stool{
+    width: 69%;
+    height: 500px;
+    
+    background: url(../image/Content/BrownChairWithLogo.jpg) right  no-repeat ;
+    
+}
+
+.underlogo_text{
+    font-size: 18px;
+    margin-bottom: 0;
+    margin-top: 260px;
+    margin-left: 330px;
+    
+}
+.social{ 
+    margin-top: 60px;
+    margin-left: 330px;
+    font-size: 25px;
+     
+}
+.social a{
+    color: #7bcbc1;
+    margin-right: 10px;
+}
+
+
+/* ....................
+    PANEL#2
+.....................*/
+
+
+.menu{
+    width: 31%;
+    height: 500px;
+    float: right;
+ background:url(../image/Content/Address.jpg)  no-repeat #7acec3;
+   text-transform: uppercase; 
+    
+}
+
+#box{
+    width: 120px;
+    height: 120px;
+    margin-left: 175px;
+    margin-top: 60px;
+}
+#bars{
+    font-size: 45px;
+    color: #e9eae2;
+    text-align: center;
+    border-width: 4px;
+    border-color: #e9eae2;
+    border-style: solid;
+    
+    
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+
+
+#address{
+    font-size: 13px; 
+    color: #e9eae2;
+    margin-left: 70px;
+    margin-top: 80px;
+    
+    
+}
+#contacts{
+    font-size: 13px; 
+    color: #e9eae2;
+    margin-left: 155px;
+    margin-top: 30px;
+}
+
+/* ....................
+    PANEL#3
+.....................*/
+
+
+.projects{
+    width: 100%;
+    height: 500px;
+    background: url(../image/Content/Projects.jpg) no-repeat #ebb240;
+    display: flex;
+}
+#projects_text{
+    font-size: 13px; 
+    color: #FFF;
+    margin-left: 160px;
+    margin-top: 172px;
+    text-transform: uppercase;
+    
+}
+#projects_title{
+   font-size: 48px; 
+    color: #FFF;
+    margin-top: 260px;
+}
+
+#filter{
+    margin-left: 100px;
+    margin-top: 240px;
+    display: flex;
+    font-size: 20px;
+    color:#FFF;
+    
+}
+.block{
+    margin-left: 20px;
+    line-height: 1.2;
+}
+/* ....................
+    PRODUCTS
+.....................*/
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1500px;
+    margin: 0 auto;
+    overflow: hidden;
+    transition: 0.5s all;    
+}
+.product{
+    width: calc(33.3333% - 72px);
+    height: 400px;
+    margin: 36px;
+    
+  
+}
+
+.hide{
+    display: none;
+}
+/* ....................
+    PANEL#4
+.....................*/
+
+.fondue{
+    background:url(../image/Content2/Fondue.png) #FFF no-repeat;
+    font-weight: 300;
+}
+
+#fondue_title{
+    font-size: 24px;
+    margin-left: 90px;
+    margin-top: 100px;
+    margin-bottom: 0;
+}
+
+#fondue_description{
+    text-transform: uppercase;
+    margin-left: 90px;
+}
+#fondue_linkbox{
+    margin-left: 135px;
+    margin-top: 63px;
+     width:110px;
+}
+#fondue_more{
+   font-size: 18px;
+    color: #686b68;   
+}
+
+/* ....................
+    PANEL#5
+.....................*/
+
+
+
+.potter{
+    
+    
+ background:url(../image/Content2/Potter.png) #dfe0d9 no-repeat;
+    font-weight: 300;
+}
+
+#potter_title{
+    font-size: 24px;
+    margin-left: 42px;
+    margin-top: 35px;
+    margin-bottom: 0;
+}
+
+#potter_description{
+    margin-left: 42px;
+}
+#potter_linkbox{
+    margin-left: 70px;
+    margin-top: 15px;
+    width:110px;
+}
+#potter_more{
+   font-size: 18px;
+    color: #686b68;
+}
+
+
+/* ....................
+    PANEL#6
+.....................*/
+
+
+.tabano{
+    
+    background: url(../image/Content2/Tabano.png) no-repeat #f7f7f3;
+    text-transform: uppercase;
+    font-weight: 300;
+    
+}
+
+#tabano_title{
+    font-size: 24px;
+    margin-left: 60px;
+    margin-top: 330px;
+    margin-bottom: 0;
+}
+
+#tabano_description{
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+#tabano_linkbox{
+    margin-left: 255px;
+    margin-top: -65px;
+    width:110px;
+}
+#tabano_more{
+   font-size: 18px;
+    color: #686b68;
+    font-weight: 300;
+}
+
+
+/* ....................
+    PANEL#7
+.....................*/
+
+
+.louis_xx{
+    
+    background: url(../image/Content2/Louis.png) #7c838d no-repeat;
+    
+    font-weight: 300;
+    text-transform: uppercase;
+    color: #FFF;
+}
+
+#louis_title{
+    font-size: 24px;
+    margin-left: 30px;
+    margin-top: 40px;
+    margin-bottom: 0;
+}
+
+#louis_description{
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+#louis_linkbox{
+    margin-left: 55px;
+    margin-top: 35px;
+    width:110px;
+}
+
+#louis_more{
+   font-size: 18px;
+    color: #FFF;
+}
+
+/* ....................
+    PANEL#8
+.....................*/
+
+
+.brown_chair{
+    
+ background:url(../image/Content2/P22.png) #eaeaea no-repeat;
+    font-weight: 300;
+    text-transform: uppercase;
+    
+}
+
+#p22_title{
+    font-size: 24px;
+    margin-left: 360px;
+    margin-top: 90px;
+    margin-bottom: 0;
+}
+
+#p22_description{
+    margin-left: 360px;
+    margin-top: 15px;
+}
+
+#p22_linkbox{
+    margin-left: 560px;
+    margin-top: -98px;
+    width:110px;
+}
+
+#p22_more{
+   font-size: 18px;
+    color: #686b68;
+}
+
+
+/* ....................
+    PANEL#9
+.....................*/
+
+
+.fiji{
+   
+ background:url(../image/Content2/Fiji.png) no-repeat #FFF;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+#fiji_title{
+    font-size: 24px;
+    margin-left: 240px;
+    margin-top: 45px;
+    margin-bottom: 0;
+    
+}
+
+#fiji_description{
+    margin-left: 240px;
+    margin-top: 15px;
+}
+
+#fiji_linkbox{
+    margin-left: 278px;
+    margin-top: 28px;
+    width:110px;
+}
+
+#fiji_more{
+   font-size: 18px;
+    color: #686b68;  
+}
+
+/* ....................
+    PANEL#10
+.....................*/
+
+
+.sesann{
+ 
+ background:url(../image/Content2/Sesann.png) no-repeat #fcfcfc;
+ font-weight: 300;
+ text-transform: uppercase;  
+}
+
+#sesann_title{
+    font-size: 24px;
+    margin-left: 155px;
+    margin-top: 200px;
+    margin-bottom: 0;
+    
+}
+
+#sesann_description{
+    margin-left: 155px;
+    margin-top: 10px;
+}
+
+#sesann_linkbox{
+    margin-left: 390px;
+    margin-top: -68px;
+    width:110px;
+}
+
+#sesann_more{
+   font-size: 18px;
+    color: #686b68;  
+}
+
+/* ....................
+    PANEL#11
+.....................*/
+
+
+.alessi{
+   
+ background:url(../image/Content2/Alessi.png) no-repeat #cecece;
+    font-weight: 300;
+ text-transform: uppercase;  
+}
+
+#alessi_title{
+    font-size: 24px;
+    margin-left: 156px;
+    margin-top: 80px;
+    margin-bottom: 0;
+    
+}
+
+#alessi_description{
+    margin-left: 156px;
+    margin-top: 10px;
+}
+
+#alessi_linkbox{
+    margin-left: 150px;
+    margin-top: 35px;
+    width:110px;
+}
+
+#alessi_more{
+   font-size: 18px;
+    color: #686b68;   
+}
+
+/* ....................
+    PANEL#12
+.....................*/
+
+
+.timeline{
+    width: 100%;
+    height: 300px;
+    float: right;
+    background: url(../image/Content/Timeline.jpg)#ebb240 no-repeat;
+    
+ text-transform: uppercase; 
+}
+#timeline_title{
+    font-size: 14px;
+    margin-left: 100px;
+    margin-top: 60px;
+    margin-bottom: 0;
+    
+}
+
+#timeline_description{
+    font-size: 13px;
+    margin-left: 100px;
+    margin-top: 7px;
+    color: #FFF;
+}
+
+
+/* ....................
+    PANEL#13
+.....................*/
+
+
+.studio{
+    width: 31%;
+    height: 500px;
+    float: left;
+ background:url(../image/Content/Studio.jpg)#ff9b6d no-repeat;
+    text-transform: uppercase;
+}
+
+#studio_title{
+   font-size: 48px; 
+    color: #FFF;
+    margin-left: 215px;
+    margin-top: 295px;
+}
+
+
+/* ....................
+    PANEL#14
+.....................*/
+
+
+.description{
+    width: 31%;
+    height: 500px;
+    float: left;
+    background: #;
+}
+#desc_txtup{
+    font-size: 18px;
+    font-style: italic;
+    font-weight:700;
+    width: 360px;
+    margin-left: 110px;
+    margin-bottom: 0px;
+    margin-top: 90px;
+}
+
+#desc_txtdn{
+    font-size: 18px;
+    font-weight:300;
+    width: 360px;
+    margin-left: 110px;
+    margin-top: 40px;
+}
+
+/* ....................
+    PANEL#15
+.....................*/
+
+
+.awards{
+  width: 38%;
+    height: 500px;
+    float: right; 
+    background: #;
+    text-transform: uppercase;
+}
+
+#office{
+    margin-top: 95px;
+    margin-left: 40px;
+}
+
+#office img{
+    max-width: 100%;
+    height: auto;
+}
+
+#awards_title{
+    font-size: 14px;
+    font-weight: bold;
+    border-bottom: 1px solid #000;
+    width: 350px;
+    margin-left: 45px;
+    margin-bottom: 0;
+}
+
+#text{
+    width: 410px;
+}
+#awards_txt_left{
+    width: 170px;
+    margin-left: 40px;
+    margin-top: 25px;
+    float:left;
+}
+
+#awards_txt_right{
+    width: 170px;
+    margin-top: 25px;
+    float:right;
+}
+
+
+/* ....................
+    PANEL#16
+.....................*/
+
+
+.staff{
+    width: 100%;
+    height: 390px;
+    float: left;
+    background: #;
+    font-size: 14px;
+}
+
+#staff_desc{
+   width:280px; 
+    margin-left: 165px;
+    margin-top: 65px;
+    float: left;
+}
+
+#staff_title{
+     font-weight: bold;  
+}
+
+#staff_txt{
+    font-weight:300;  
+}
+
+#employee{
+    margin-top: 65px;
+    margin-left: 468px;
+    
+}
+
+/* ....................
+    PANEL#17
+.....................*/
+.news{
+    width: 31%;
+    height: 500px;
+    float: left;
+ background:url(../image/Content/News.jpg) no-repeat #d4edbf;
+text-transform: uppercase;
+}
+
+#news_title{
+   font-size: 48px; 
+    color: #FFF;
+    margin-left: 215px;
+    margin-top: 295px;
+}
+
+/* ....................
+    PANEL#18
+.....................*/
+.article{
+    width: 69%;
+    height: 500px;
+    float: right;
+    background: #e5e9df;
+    display: flex;
+    flex-direction:row;
+    
+}
+
+#FirstNews{
+    margin-top: 80px;
+    margin-left: 100px;
+    width: 400px;
+}
+
+.SecondNews{
+    margin-top: 80px;
+    width: 470px;
+    
+}
+
+#News_title{
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 0px;
+}
+
+#date{
+   margin-top: 10px;
+    margin-bottom: 18px;
+}
+
+#News_img{
+    margin-bottom: 25px;
+}
+#News_txt{
+    font-size: 14px;
+    
+}
+#More_row{
+    margin-left: 310px;
+}
+#Read_more{
+    
+    text-transform: uppercase;
+    color: #fd5000;
+    width: 58px;
+}
+/* ....................
+    FOOTER
+.....................*/
+.footer{
+    width: 100%;
+    height: 645px;
+    background: #;
+    display: flex;
+    flex-direction:row;
+    text-transform: uppercase;
+}
+#map{
+    width: 50%;
+}
+#foot_txt{
+    width: 50%;
+}
+#footaddress{
+    margin-top: 150px;
+    margin-left:114px;
+    font-size: 13px; 
+    margin-bottom: 15px;   
+}
+#footcontacts{
+    margin-top: 0px;
+    font-size: 13px; 
+    margin-left:114px;
+    
+}
+
+#logo{
+    margin-left: 415px;
+    margin-top: -117px;
+}
+
+#copyright{
+    margin-top: 80px;
+    margin-left: 125px;
+}
+
+
+/* ....................
+    MEDIA
+.....................*/
+@media (max-width:1500px)
+{
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

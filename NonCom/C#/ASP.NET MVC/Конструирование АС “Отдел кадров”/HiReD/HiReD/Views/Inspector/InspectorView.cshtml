@@ -1,0 +1,207 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="~/Content/solid.css" rel="stylesheet">
+    <link href="~/Content/solid.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="~/Content/Style.css">
+    <link rel="stylesheet" href="~/Content/jquery.dataTables.min.css">
+
+    <script src="~/Scripts/jquery-3.6.0.min.js"></script>
+    <script src="~/Scripts/bootstrap.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+    <script src="~/Scripts/jquery.dataTables.min.js"></script>
+
+
+    <meta charset="UTF-8">
+    <title>HiReD</title>
+</head>
+
+<body>
+
+    <div class="All bg-dark " style="height: 100vh">
+
+        <div class="Header d-flex bg-success text-white ">
+
+            <div class="Logo mx-2 my-3 ">
+                <h2>HiReD</h2>
+
+            </div>
+
+            <div class="Navigation offset-md-5 my-3 ">
+                <h3>Найм</h3>
+
+            </div>
+
+        </div>
+
+
+        <div class="Sections  ms-3 mt-2 ">
+            <button type="button" class="btn-sm btn-success ">Сотрудники</button>
+            <button type="button" class="btn-sm btn-success ">Документы</button>
+            <button type="button" class="btn-sm btn-success ">Отчёты</button>
+
+            <button type="button" class="btn-sm btn-success  float-end mx-3">Выход</button>
+            <div class="Gear float-end mx-3  ">
+                <img src="~/Content/cog.png" alt="">
+            </div>
+            <a href="@Url.Action("Index", "Recruitment")" class="float-end mx-3 text-decoration-underline text-light">Инспектор по кадрам </a>
+
+
+        </div>
+
+        <div class="Content mt-5 mx-3 ">
+
+            <div class="Left">
+                <div class="BuTable bg-light  text-center rounded">
+
+                    
+                    <button type="button" class="btn-sm btn-success  my-2 ">Экспорт</button>
+                </div>
+                <div class="Space">
+
+                </div>
+
+                <div class="Sort bg-white text-center rounded">
+
+
+                    <label for="Find">Найти по:</label>
+                    <select id="Find">
+                        <option selected>Отдел</option>
+                    </select>
+
+                    <input class="mt-2" type="text" size="15">
+
+                    <button type="button" class="btn-sm btn-success my-2 me-1">Поиск</button>
+                    <button type="button" class="btn-sm btn-success my-2 ">Отмена</button>
+
+
+
+                    <select id="Sort" class="mt-4">
+                        <option selected></option>
+                    </select>
+                    <button type="button" class="btn-sm btn-success my-2 ">Сортировка</button>
+                    <button type="button" class="btn-sm btn-success my-2 ">Отмена</button>
+
+                </div>
+
+            </div>
+
+
+            <div class="MainTable  bg-white">
+                <table class="table table-hover cell-border  table-bordered " id="MainTable">
+                    <thead class="table-light">
+                        <tr>
+                            <th scope="col">№</th>
+                            <th scope="col">Отдел</th>
+                            <th scope="col">Должность</th>
+                            <th scope="col">Статус</th>
+                            <th scope="col">Информация</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var recruit in ViewBag.Recruits)
+                        {
+                            <tr>
+                                <td><p>@recruit.id</p></td>
+                                <td><p>@recruit.Department</p></td>
+                                <td><p>@recruit.Post</p></td>
+                                <td><p>@recruit.Status</p></td>
+                                <td><p>@recruit.Info</p></td>
+
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="Right">
+
+                <div class="BuNote bg-light col-1 text-center rounded">
+
+                    <button type="button" class="btn-sm btn-success my-2 " id="Input" data-bs-toggle="modal" data-bs-target="#staticBackdrop" onclick="fillChangeModal()">Изменить</button>
+                    
+                    
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <!-- Модальное окно изменения -->
+        <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+                    <div class="modal-header bg-success">
+                        <h5 class="modal-title text-white" id="staticBackdropLabel">Заявка</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Закрыть"></button>
+                    </div>
+
+                    <div class="modal-body">
+
+                        <table class="table recruit">
+
+                            <tbody>
+
+                                <tr>
+                                    <td><input class="mt-2" id="id" type="text" hidden></td>
+                                </tr>
+
+                                <tr>
+                                    <td><label for="Dep">Отдел:</label></td>
+                                    <td><input class="mt-2" id="Dep" type="text" disabled size="15"></td>
+                                </tr>
+
+                                <tr>
+                                    <td><label for="Post">Должность:</label></td>
+                                    <td><input class="mt-2" id="Post" type="text" disabled></td>
+                                </tr>
+
+                                <tr>
+                                    <td><label for="Status">Статус:</label></td>
+                                    <td>
+                                        <select id="Status">
+                                            <option value="В поиске">В поиске</option>
+                                            <option value="Прошел собеседование">Прошел собеседование</option>
+                                            <option value="Принят">Принят</option>
+                                        </select>
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td><label for="FIO">Выбор:</label></td>
+                                    <td>
+                                        <select id="FIO">
+                                        </select>
+                                    </td>
+                                </tr>
+
+                            </tbody>
+                        </table>
+
+                    </div>
+
+                    <div class="modal-footer justify-content-center">
+
+                        <button type="button" class="btn btn-success" onclick='Change()'>Сохранить</button>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+ 
+    </div>
+
+
+    <script src="~/Scripts/script.js"></script>
+    <script>var Interviewee = @Html.Raw(Json.Encode(@ViewBag.Interviewee));</script>
+
+
+</body>
+</html>

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\verdant\onedrive\учеба\програм лабы\18 лаба\1\1\source.cpp(3): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\verdant\onedrive\учеба\програм лабы\18 лаба\1\1\source.cpp(11): error C2440: =: невозможно преобразовать "int" в "int *"
+  c:\users\verdant\onedrive\учеба\програм лабы\18 лаба\1\1\source.cpp(11): note: Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции

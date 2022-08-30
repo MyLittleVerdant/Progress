@@ -1,0 +1,85 @@
+video,.video img {
+    margin: 0 auto 10px auto !important;
+}
+
+.form-group img, .form-group video {
+    display: inherit;
+    margin: 10px 0 10px 0;
+}
+
+img {
+    object-fit: scale-down;
+}
+
+table td {
+    max-width: 380px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+}
+
+.pictures, .videos {
+    display: flex;
+    margin: 10px 0 10px 0;
+    text-align: center;
+}
+
+.picture:not(:first-child), .video:not(:first-child) {
+    margin-left: 10px;
+}
+
+.sub_input {
+    margin-bottom: 10px;
+}
+
+.section {
+    margin-top: 60px;
+}
+
+
+.add-point,.add-social {
+    font-size: 30px;
+    line-height: 30px;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px auto 0 auto;
+}
+
+.list-point,.list-social {
+    border: 1px solid black;
+    padding: 5px 10px;
+}
+
+.list-point:not(:first-child),.list-social:not(:first-child) {
+    margin-top: 20px;
+}
+
+.delete-point {
+    display: flex;
+    float: right;
+    margin: 5px;
+}
+
+.poster-input {
+    margin: 0 0 10px 0;
+    width: 280px;
+}
+
+.responsive{
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+input{
+    margin: 0 0 10px 0;
+}
+
+.delete-detailPic-btn{
+    margin-bottom: 10px;
+}

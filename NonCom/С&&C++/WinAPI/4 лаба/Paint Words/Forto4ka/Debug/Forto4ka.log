@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Forto4ka.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Source.cpp
+D:\Учеба\оКОШКИ\4 лаба\Paint Words\Forto4ka\Source.cpp(147,14): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "CreateWindowA"
+  Forto4ka.vcxproj -> D:\Учеба\оКОШКИ\4 лаба\Paint Words\Debug\Paint Words.exe

@@ -1,0 +1,513 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "Igronik-lk API",
+        "version": "1.0"
+    },
+    "paths": {
+        "/api/aboutList?sort={direction}": {
+            "get": {
+                "tags": [
+                    "About"
+                ],
+                "summary": "Get full list of about blocks",
+                "description": "Get full list of about blocks",
+                "operationId": "getAbout",
+                "parameters": [
+                    {
+                        "name": "direction",
+                        "in": "path",
+                        "description": "Direction of sort (asc/desc). Default- asc by ID",
+                        "required": false,
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Return json of about blocks array"
+                    }
+                }
+            }
+        },
+        "/api/aboutListPage?page={pageNum}": {
+            "get": {
+                "tags": [
+                    "About"
+                ],
+                "summary": "Get a list of about blocks",
+                "description": "Get a list of about blocks",
+                "operationId": "getAboutByPage",
+                "parameters": [
+                    {
+                        "name": "pageNum",
+                        "in": "path",
+                        "description": "Page of about blocks list that needs to be fetched",
+                        "required": false,
+                        "schema": {
+                            "type": "integer",
+                            "format": "int64"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Return json of about blocks list array"
+                    }
+                }
+            }
+        },
+        "/api/careersList?sort={direction}": {
+            "get": {
+                "tags": [
+                    "Careers"
+                ],
+                "summary": "Get full list of career values",
+                "description": "Get full list of career values",
+                "operationId": "getCareers",
+                "parameters": [
+                    {
+                        "name": "direction",
+                        "in": "path",
+                        "description": "Direction of sort (asc/desc). Default- asc by ID",
+                        "required": false,
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Return json of career values array"
+                    }
+                }
+            }
+        },
+        "/api/careersListPage?page={pageNum}": {
+            "get": {
+                "tags": [
+                    "Careers"
+                ],
+                "summary": "Get a list of career values by page",
+                "description": "Get a list of career values by page",
+                "operationId": "getCareersByPage",
+                "parameters": [
+                    {
+                        "name": "pageNum",
+                        "in": "path",
+                        "description": "Page of list values that needs to be fetched",
+                        "required": false,
+                        "schema": {
+                            "type": "integer",
+                            "format": "int64"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Return array of list values on career page as json"
+                    }
+                }
+            }
+        },
+        "/api/clientsList?sort={direction}": {
+            "get": {
+                "tags": [
+                    "Clients"
+                ],
+                "summary": "Get full list of clients",
+                "description": "Get full list of clients",
+                "operationId": "getClients",
+                "parameters": [
+                    {
+                        "name": "direction",
+                        "in": "path",
+                        "description": "Direction of sort (asc/desc). Default- asc by ID",
+                        "required": false,
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Return json of clients list array"
+                    }
+                }
+            }
+        },
+        "/api/clientsListPage?page={pageNum}": {
+            "get": {
+                "tags": [
+                    "Clients"
+                ],
+                "summary": "Get a list of clients by page",
+                "description": "Get a list of clients by page",
+                "operationId": "getClientsByPage",
+                "parameters": [
+                    {
+                        "name": "pageNum",
+                        "in": "path",
+                        "description": "Page of clients list that needs to be fetched",
+                        "required": false,
+                        "schema": {
+                            "type": "integer",
+                            "format": "int64"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Return json of clients list array"
+                    }
+                }
+            }
+        },
+        "/api/contactsList?sort={direction}": {
+            "get": {
+                "tags": [
+                    "Contacts"
+                ],
+                "summary": "Get full list of contacts",
+                "description": "Get full list of contacts",
+                "operationId": "getContacts",
+                "parameters": [
+                    {
+                        "name": "direction",
+                        "in": "path",
+                        "description": "Direction of sort (asc/desc). Default- asc by ID",
+                        "required": false,
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Return json of contacts list array"
+                    }
+                }
+            }
+        },
+        "/api/contactsListPage?page={pageNum}": {
+            "get": {
+                "tags": [
+                    "Contacts"
+                ],
+                "summary": "Get a list of contacts by page",
+                "description": "Get a list of contacts by page",
+                "operationId": "getContactsByPage",
+                "parameters": [
+                    {
+                        "name": "pageNum",
+                        "in": "path",
+                        "description": "Page of contacts list that needs to be fetched",
+                        "required": false,
+                        "schema": {
+                            "type": "integer",
+                            "format": "int64"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Return json of contacts list array"
+                    }
+                }
+            }
+        },
+        "/api/favoursList?sort={direction}": {
+            "get": {
+                "tags": [
+                    "Favours"
+                ],
+                "summary": "Get full list of favours",
+                "description": "Get full list of favours",
+                "operationId": "getFavours",
+                "parameters": [
+                    {
+                        "name": "direction",
+                        "in": "path",
+                        "description": "Direction of sort (asc/desc). Default- asc by ID",
+                        "required": false,
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Return json of favours list array favours{$key=>[...,medias[],details[],posters[]]}. Posters[] have a structure [posterID=>posterData[]]."
+                    }
+                }
+            }
+        },
+        "/api/favourByKey?key={key}": {
+            "get": {
+                "tags": [
+                    "Favours"
+                ],
+                "summary": "Get favour by key",
+                "description": "Get favour by key",
+                "operationId": "getFavourByKey",
+                "parameters": [
+                    {
+                        "name": "key",
+                        "in": "path",
+                        "description": "Key of favour that needs to be fetched",
+                        "required": true,
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Return json of favour{...,medias[],details[],posters[]}. Posters[] have a structure [posterID=>posterData[]]"
+                    }
+                }
+            }
+        },
+        "/api/mainList": {
+            "get": {
+                "tags": [
+                    "Main"
+                ],
+                "summary": "Get videos of main page",
+                "description": "Get videos of main page",
+                "operationId": "getMain",
+                "responses": {
+                    "200": {
+                        "description": "Return json of main's videos paths"
+                    }
+                }
+            }
+        },
+        "/api/newsList?page={pageNum}&&sort={direction}": {
+            "get": {
+                "tags": [
+                    "News"
+                ],
+                "summary": "Get a list of news",
+                "description": "Get a list of news",
+                "operationId": "getNews",
+                "parameters": [
+                    {
+                        "name": "pageNum",
+                        "in": "path",
+                        "description": "Page of news list that needs to be fetched",
+                        "required": false,
+                        "schema": {
+                            "type": "integer",
+                            "format": "int64"
+                        }
+                    },
+                    {
+                        "name": "direction",
+                        "in": "path",
+                        "description": "Direction of sort (asc/desc). Default - asc by ID",
+                        "required": false,
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Return json of news list array"
+                    }
+                }
+            }
+        },
+        "/api/newsList/{newsID}": {
+            "get": {
+                "tags": [
+                    "News"
+                ],
+                "summary": "Get news by id",
+                "description": "Get news by id",
+                "operationId": "getSpecificNews",
+                "parameters": [
+                    {
+                        "name": "newsID",
+                        "in": "path",
+                        "description": "ID of news that needs to be fetched",
+                        "required": true,
+                        "schema": {
+                            "type": "integer",
+                            "format": "int64"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Return json of news array"
+                    },
+                    "404": {
+                        "description": "News not found"
+                    }
+                }
+            }
+        },
+        "/api/partnersList?sort={direction}": {
+            "get": {
+                "tags": [
+                    "Partners"
+                ],
+                "summary": "Get full list of partners",
+                "description": "Get full list of partners",
+                "operationId": "getPartners",
+                "parameters": [
+                    {
+                        "name": "direction",
+                        "in": "path",
+                        "description": "Direction of sort (asc/desc). Default- asc by ID",
+                        "required": false,
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Return json of partners list array"
+                    }
+                }
+            }
+        },
+        "/api/partnersListPage?page={pageNum}": {
+            "get": {
+                "tags": [
+                    "Partners"
+                ],
+                "summary": "Get a list of partners by page",
+                "description": "Get a list of partners by page",
+                "operationId": "getPartnersByPage",
+                "parameters": [
+                    {
+                        "name": "pageNum",
+                        "in": "path",
+                        "description": "Page of partners list that needs to be fetched",
+                        "required": false,
+                        "schema": {
+                            "type": "integer",
+                            "format": "int64"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Return json of partners list array"
+                    }
+                }
+            }
+        },
+        "/api/patronagesList?sort={direction}": {
+            "get": {
+                "tags": [
+                    "Patronages"
+                ],
+                "summary": "Get full list of patronages",
+                "description": "Get full list of patronages",
+                "operationId": "getPatronages",
+                "parameters": [
+                    {
+                        "name": "direction",
+                        "in": "path",
+                        "description": "Direction of sort (asc/desc). Default- asc by ID",
+                        "required": false,
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Return json of patronages list array"
+                    }
+                }
+            }
+        },
+        "/api/patronagesListPage?page={pageNum}": {
+            "get": {
+                "tags": [
+                    "Patronages"
+                ],
+                "summary": "Get a list of patronages by page",
+                "description": "Get a list of patronages by page",
+                "operationId": "getPatronagesByPage",
+                "parameters": [
+                    {
+                        "name": "pageNum",
+                        "in": "path",
+                        "description": "Page of patronages list that needs to be fetched",
+                        "required": false,
+                        "schema": {
+                            "type": "integer",
+                            "format": "int64"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Return json of patronages list array"
+                    }
+                }
+            }
+        },
+        "/api/teamList?sort={direction}": {
+            "get": {
+                "tags": [
+                    "Team"
+                ],
+                "summary": "Get full list of team",
+                "description": "Get full list of team",
+                "operationId": "getTeam",
+                "parameters": [
+                    {
+                        "name": "direction",
+                        "in": "path",
+                        "description": "Direction of sort (asc/desc). Default- asc by ID",
+                        "required": false,
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Return json of team list array"
+                    }
+                }
+            }
+        },
+        "/api/teamListPage?page={pageNum}": {
+            "get": {
+                "tags": [
+                    "Team"
+                ],
+                "summary": "Get a list of team by page",
+                "description": "Get a list of team by page",
+                "operationId": "getTeamByPage",
+                "parameters": [
+                    {
+                        "name": "pageNum",
+                        "in": "path",
+                        "description": "Page of team list that needs to be fetched",
+                        "required": false,
+                        "schema": {
+                            "type": "integer",
+                            "format": "int64"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Return json of team list array"
+                    }
+                }
+            }
+        }
+    }
+}

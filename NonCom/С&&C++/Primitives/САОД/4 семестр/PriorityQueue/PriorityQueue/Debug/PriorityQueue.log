@@ -1,0 +1,4 @@
+﻿  PQueue.cpp
+F:\Учеба\САОД\4 семестр\PriorityQueue\PriorityQueue\PQueue.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+F:\Учеба\САОД\4 семестр\PriorityQueue\PriorityQueue\PQueue.cpp(7,6): warning C4101: k: неиспользованная локальная переменная
+  PriorityQueue.vcxproj -> F:\Учеба\САОД\4 семестр\PriorityQueue\Debug\PriorityQueue.exe

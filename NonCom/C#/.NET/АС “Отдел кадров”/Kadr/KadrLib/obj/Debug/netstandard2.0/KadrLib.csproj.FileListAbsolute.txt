@@ -1,0 +1,36 @@
+D:\Учеба\БД\Курсовая\Kadr\KadrLib\bin\Debug\netstandard2.0\KadrLib.deps.json
+D:\Учеба\БД\Курсовая\Kadr\KadrLib\bin\Debug\netstandard2.0\KadrLib.dll
+D:\Учеба\БД\Курсовая\Kadr\KadrLib\bin\Debug\netstandard2.0\KadrLib.pdb
+D:\Учеба\БД\Курсовая\Kadr\KadrLib\obj\Debug\netstandard2.0\KadrLib.csprojAssemblyReference.cache
+D:\Учеба\БД\Курсовая\Kadr\KadrLib\obj\Debug\netstandard2.0\KadrLib.AssemblyInfoInputs.cache
+D:\Учеба\БД\Курсовая\Kadr\KadrLib\obj\Debug\netstandard2.0\KadrLib.AssemblyInfo.cs
+D:\Учеба\БД\Курсовая\Kadr\KadrLib\obj\Debug\netstandard2.0\KadrLib.csproj.CoreCompileInputs.cache
+D:\Учеба\БД\Курсовая\Kadr\KadrLib\obj\Debug\netstandard2.0\KadrLib.dll
+D:\Учеба\БД\Курсовая\Kadr\KadrLib\obj\Debug\netstandard2.0\KadrLib.pdb
+C:\Users\artpo\Desktop\Курсовая\Kadr\KadrLib\bin\Debug\netstandard2.0\KadrLib.deps.json
+C:\Users\artpo\Desktop\Курсовая\Kadr\KadrLib\bin\Debug\netstandard2.0\KadrLib.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\KadrLib\bin\Debug\netstandard2.0\KadrLib.pdb
+C:\Users\artpo\Desktop\Курсовая\Kadr\KadrLib\obj\Debug\netstandard2.0\KadrLib.csprojAssemblyReference.cache
+C:\Users\artpo\Desktop\Курсовая\Kadr\KadrLib\obj\Debug\netstandard2.0\KadrLib.AssemblyInfoInputs.cache
+C:\Users\artpo\Desktop\Курсовая\Kadr\KadrLib\obj\Debug\netstandard2.0\KadrLib.AssemblyInfo.cs
+C:\Users\artpo\Desktop\Курсовая\Kadr\KadrLib\obj\Debug\netstandard2.0\KadrLib.csproj.CoreCompileInputs.cache
+C:\Users\artpo\Desktop\Курсовая\Kadr\KadrLib\obj\Debug\netstandard2.0\KadrLib.dll
+C:\Users\artpo\Desktop\Курсовая\Kadr\KadrLib\obj\Debug\netstandard2.0\KadrLib.pdb
+D:\Учеба\3 курс\БД\Курсовая\Kadr\KadrLib\bin\Debug\netstandard2.0\KadrLib.deps.json
+D:\Учеба\3 курс\БД\Курсовая\Kadr\KadrLib\bin\Debug\netstandard2.0\KadrLib.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\KadrLib\bin\Debug\netstandard2.0\KadrLib.pdb
+D:\Учеба\3 курс\БД\Курсовая\Kadr\KadrLib\obj\Debug\netstandard2.0\KadrLib.csprojAssemblyReference.cache
+D:\Учеба\3 курс\БД\Курсовая\Kadr\KadrLib\obj\Debug\netstandard2.0\KadrLib.AssemblyInfoInputs.cache
+D:\Учеба\3 курс\БД\Курсовая\Kadr\KadrLib\obj\Debug\netstandard2.0\KadrLib.AssemblyInfo.cs
+D:\Учеба\3 курс\БД\Курсовая\Kadr\KadrLib\obj\Debug\netstandard2.0\KadrLib.csproj.CoreCompileInputs.cache
+D:\Учеба\3 курс\БД\Курсовая\Kadr\KadrLib\obj\Debug\netstandard2.0\KadrLib.dll
+D:\Учеба\3 курс\БД\Курсовая\Kadr\KadrLib\obj\Debug\netstandard2.0\KadrLib.pdb
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\KadrLib\bin\Debug\netstandard2.0\KadrLib.deps.json
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\KadrLib\bin\Debug\netstandard2.0\KadrLib.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\KadrLib\bin\Debug\netstandard2.0\KadrLib.pdb
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\KadrLib\obj\Debug\netstandard2.0\KadrLib.csproj.AssemblyReference.cache
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\KadrLib\obj\Debug\netstandard2.0\KadrLib.AssemblyInfoInputs.cache
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\KadrLib\obj\Debug\netstandard2.0\KadrLib.AssemblyInfo.cs
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\KadrLib\obj\Debug\netstandard2.0\KadrLib.csproj.CoreCompileInputs.cache
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\KadrLib\obj\Debug\netstandard2.0\KadrLib.dll
+D:\Учеба\Verdant\Progress\C#\.NET\АС “Отдел кадров”\Kadr\KadrLib\obj\Debug\netstandard2.0\KadrLib.pdb

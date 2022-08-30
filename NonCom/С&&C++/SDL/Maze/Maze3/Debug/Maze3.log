@@ -1,0 +1,6 @@
+﻿  Maze3.cpp
+D:\Учеба\Verdant\Progress\С&&C++\SDL\Maze\Maze3\Maze3.cpp(89,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Учеба\Verdant\Progress\С&&C++\SDL\Maze\Maze3\Maze3.cpp(418,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\Учеба\Verdant\Progress\С&&C++\SDL\Maze\Maze3\Maze3.cpp(1011,28): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+D:\Учеба\Verdant\Progress\С&&C++\SDL\Maze\Maze3\Maze3.cpp(261): warning C4715: IsBonusReached: значение возвращается не при всех путях выполнения
+  Maze3.vcxproj -> D:\Учеба\Verdant\Progress\С&&C++\SDL\Maze\Debug\Maze3.exe
