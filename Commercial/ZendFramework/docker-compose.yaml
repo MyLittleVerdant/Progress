@@ -1,0 +1,66 @@
+version: '3.5'
+
+services:
+
+    # PHP fpm
+    application-backend:
+        image: mylittleverdant/amo-school:latest
+        restart: always
+        tty: true
+        working_dir: /var/www/application
+        #env_file:
+        #    - .env
+        volumes:
+            - .:/var/www/application
+        container_name: application-backend
+        depends_on:
+            - application-mysql
+            - application-nginx
+
+    # Nginx Service
+    application-nginx:
+        image: nginx:alpine
+        container_name: application-nginx
+        restart: always
+        tty: true
+        environment:
+            - "APPLICATION_UPSTREAM=application-backend:9000"
+        volumes:
+            - ./docker/nginx/conf.d/:/etc/nginx/conf.d/
+            - ./docker/nginx/templates/:/etc/nginx/templates/
+            - ./public/:/var/www/application/public/
+        ports:
+            - "80:80"
+            - "443:443"
+
+    # MySQL Service
+    application-mysql:
+        image: library/mysql:8.0
+        container_name: application-mysql
+        restart: always
+        tty: true
+        ports:
+            - "3306:3306"
+        environment:
+            MYSQL_DATABASE: synchronization
+            MYSQL_USER: user
+            MYSQL_PASSWORD: pass
+            MYSQL_ROOT_USER: root
+            MYSQL_ROOT_PASSWORD: pass
+        volumes:
+            - applicationMysqlData:/var/lib/mysql
+            - applicationMysqlFiles:/var/lib/mysql-files
+
+    # Queue Service
+    application-beanstalkd:
+        image: schickling/beanstalkd:latest
+        container_name: application-beanstalkd
+        ports:
+            - "11300:11300"
+
+#Docker Volumes
+volumes:
+    applicationMysqlData:
+        driver: local
+    applicationMysqlFiles:
+        driver: local
