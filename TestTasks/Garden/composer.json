@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Model\\": "Model"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9"
+  }
+}
